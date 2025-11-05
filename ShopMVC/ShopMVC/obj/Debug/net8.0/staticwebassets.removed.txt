@@ -1,0 +1,2 @@
+C:\Users\maydi\OneDrive\Tài liệu\FPTPolytechnic\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\Assignment-NET107-ShopMVC\ShopMVC\ShopMVC\wwwroot\css\site.css
+C:\Users\maydi\OneDrive\Tài liệu\FPTPolytechnic\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\Assignment-NET107-ShopMVC\ShopMVC\ShopMVC\wwwroot\js\site.js

@@ -1,0 +1,329 @@
+╔═══════════════════════════════════════════════════════════════════════════════╗
+║                    CẤU TRÚC DỰ ÁN PHONESHOP MVC                              ║
+║                   ASP.NET Core 8.0 + EF Core 8.0                             ║
+╚═══════════════════════════════════════════════════════════════════════════════╝
+
+PhoneShopMVC/
+│
+├─── 🎮 Controllers/ ─────────────────────── [Xử lý HTTP Requests]
+│    ├── HomeController.cs               → Trang chủ, giới thiệu
+│    ├── ProductController.cs            → Danh sách, chi tiết, tìm kiếm SP
+│    ├── CartController.cs               → Giỏ hàng (AJAX)
+│    ├── OrderController.cs              → Đặt hàng, lịch sử đơn
+│    ├── AccountController.cs            → Login, Register, Profile
+│    └── AdminController.cs              → Quản lý (Admin only)
+│
+├─── 📦 Models/ ──────────────────────────── [Entity Classes - DB Mapping]
+│    ├── Category.cs                     → Bảng Categories
+│    ├── Product.cs                      → Bảng Products
+│    ├── User.cs                         → Bảng Users
+│    ├── Cart.cs                         → Bảng Carts
+│    ├── CartDetail.cs                   → Bảng CartDetails
+│    ├── Order.cs                        → Bảng Orders
+│    └── OrderDetail.cs                  → Bảng OrderDetails
+│
+├─── 📋 ViewModels/ ──────────────────────── [DTOs cho Views]
+│    ├── LoginViewModel.cs               → Form đăng nhập
+│    ├── RegisterViewModel.cs            → Form đăng ký
+│    ├── ProductViewModel.cs             → Hiển thị sản phẩm (có thêm field)
+│    ├── CartViewModel.cs                → Giỏ hàng với tổng tiền
+│    ├── CheckoutViewModel.cs            → Thanh toán
+│    ├── OrderViewModel.cs               → Đơn hàng chi tiết
+│    └── DashboardViewModel.cs           → Thống kê admin
+│
+├─── 💾 Data/ ────────────────────────────── [Database Context]
+│    ├── ApplicationDbContext.cs         → EF Core DbContext chính
+│    └── DbInitializer.cs                → Seed data (nếu cần)
+│
+├─── ⚙️  Services/ ───────────────────────── [Business Logic Layer]
+│    ├── Interfaces/
+│    │   ├── IProductService.cs          → Interface Product
+│    │   ├── ICartService.cs             → Interface Cart
+│    │   ├── IOrderService.cs            → Interface Order
+│    │   ├── IAuthService.cs             → Interface Auth
+│    │   └── IAdminService.cs            → Interface Admin
+│    │
+│    └── Implementations/
+│        ├── ProductService.cs           → Logic sản phẩm (CRUD, search)
+│        ├── CartService.cs              → Logic giỏ hàng
+│        ├── OrderService.cs             → Logic đơn hàng
+│        ├── AuthService.cs              → Logic đăng nhập (hash password)
+│        └── AdminService.cs             → Logic admin (thống kê)
+│
+├─── 🛠️  Helpers/ ────────────────────────── [Utility Functions]
+│    ├── SessionHelper.cs                → Quản lý Session
+│    ├── PasswordHasher.cs               → Hash password (BCrypt)
+│    ├── ImageHelper.cs                  → Upload & resize ảnh
+│    └── PaginationHelper.cs             → Phân trang
+│
+├─── 🔒 Filters/ ─────────────────────────── [Custom Filters]
+│    ├── AuthorizeRoleAttribute.cs       → Phân quyền theo Role
+│    └── ValidateModelAttribute.cs       → Validate model state
+│
+├─── 🎨 Views/ ───────────────────────────── [Razor Views]
+│    │
+│    ├── Shared/                         → [Layout & Components chung]
+│    │   ├── _Layout.cshtml              → Layout User
+│    │   ├── _AdminLayout.cshtml         → Layout Admin
+│    │   ├── _Header.cshtml              → Navbar
+│    │   ├── _Footer.cshtml              → Footer
+│    │   ├── _LoginPartial.cshtml        → Login status
+│    │   ├── _ProductCard.cshtml         → Card sản phẩm
+│    │   ├── _Pagination.cshtml          → Phân trang
+│    │   └── Error.cshtml                → Error page
+│    │
+│    ├── Home/                           → [Trang chủ]
+│    │   ├── Index.cshtml                → Homepage
+│    │   ├── About.cshtml                → Giới thiệu
+│    │   └── Contact.cshtml              → Liên hệ
+│    │
+│    ├── Product/                        → [Sản phẩm]
+│    │   ├── Index.cshtml                → Tất cả sản phẩm
+│    │   ├── Category.cshtml             → Theo danh mục
+│    │   ├── Detail.cshtml               → Chi tiết SP
+│    │   └── Search.cshtml               → Tìm kiếm
+│    │
+│    ├── Cart/                           → [Giỏ hàng]
+│    │   ├── Index.cshtml                → Xem giỏ hàng
+│    │   └── Checkout.cshtml             → Thanh toán
+│    │
+│    ├── Order/                          → [Đơn hàng]
+│    │   ├── Index.cshtml                → Đơn hàng của tôi
+│    │   ├── Detail.cshtml               → Chi tiết đơn
+│    │   └── Success.cshtml              → Đặt hàng thành công
+│    │
+│    ├── Account/                        → [Tài khoản]
+│    │   ├── Login.cshtml                → Đăng nhập
+│    │   ├── Register.cshtml             → Đăng ký
+│    │   ├── Profile.cshtml              → Thông tin cá nhân
+│    │   └── ChangePassword.cshtml       → Đổi mật khẩu
+│    │
+│    └── Admin/                          → [Quản trị]
+│        ├── Index.cshtml                → Dashboard
+│        ├── Products/
+│        │   ├── Index.cshtml            → DS sản phẩm
+│        │   ├── Create.cshtml           → Thêm SP
+│        │   ├── Edit.cshtml             → Sửa SP
+│        │   └── Delete.cshtml           → Xóa SP
+│        ├── Orders/
+│        │   ├── Index.cshtml            → DS đơn hàng
+│        │   ├── Detail.cshtml           → Chi tiết đơn
+│        │   └── Approve.cshtml          → Duyệt đơn
+│        ├── Users/
+│        │   ├── Index.cshtml            → DS người dùng
+│        │   └── Detail.cshtml           → Chi tiết user
+│        └── Reports/
+│            ├── Sales.cshtml            → Báo cáo doanh thu
+│            └── Products.cshtml         → SP bán chạy
+│
+├─── 🌐 wwwroot/ ─────────────────────────── [Static Files - Public]
+│    ├── css/
+│    │   ├── site.css                    → CSS chung
+│    │   ├── admin.css                   → CSS admin
+│    │   └── product.css                 → CSS sản phẩm
+│    │
+│    ├── js/
+│    │   ├── site.js                     → JS chung
+│    │   ├── cart.js                     → AJAX giỏ hàng
+│    │   ├── product.js                  → JS sản phẩm
+│    │   └── admin.js                    → JS admin
+│    │
+│    ├── images/
+│    │   ├── logo.png                    → Logo
+│    │   ├── no-image.jpg                → Placeholder
+│    │   ├── banner/                     → Banner trang chủ
+│    │   └── products/                   → Ảnh sản phẩm (upload)
+│    │
+│    └── lib/                            → Thư viện
+│        ├── bootstrap/                  → Bootstrap 5
+│        ├── jquery/                     → jQuery
+│        ├── font-awesome/               → Icons
+│        └── jquery-validation/          → Validation
+│
+├─── 📊 Migrations/                       → [EF Core Migrations]
+│    └── (auto-generated files...)
+│
+├─── 📄 appsettings.json                  → Cấu hình chính
+├─── 📄 appsettings.Development.json      → Config Development
+├─── 📄 Program.cs                        → Entry point
+├─── 📄 PhoneShopMVC.csproj              → Project file
+└─── 📄 .gitignore                        → Git ignore
+
+
+╔═══════════════════════════════════════════════════════════════════════════════╗
+║                           LUỒNG XỬ LÝ REQUEST                                ║
+╚═══════════════════════════════════════════════════════════════════════════════╝
+
+  👤 User
+   │
+   ├──[Request]──→ 🎮 Controller
+   │                    │
+   │                    ├──[Call]──→ ⚙️ Service (Business Logic)
+   │                    │                 │
+   │                    │                 ├──[Query]──→ 💾 DbContext
+   │                    │                 │                  │
+   │                    │                 │                  ├──→ 🗄️ Database
+   │                    │                 │                  │
+   │                    │                 │    [Data]────────┘
+   │                    │                 │
+   │                    │   [Result]──────┘
+   │                    │
+   │                    ├──[Map]──→ 📋 ViewModel
+   │                    │
+   │   [Response]───────┤
+   │                    │
+   └────[View]─────← 🎨 Razor View (HTML + C#)
+
+
+╔═══════════════════════════════════════════════════════════════════════════════╗
+║                         VÍ DỤ: ADD TO CART FLOW                              ║
+╚═══════════════════════════════════════════════════════════════════════════════╝
+
+1. 👤 User click "Thêm vào giỏ" trên Product/Detail.cshtml
+   │
+2. 📡 AJAX POST request → /Cart/AddToCart
+   │
+3. 🎮 CartController.AddToCart(productId, quantity)
+   │   │
+   │   ├─→ Lấy UserId từ Session
+   │   │
+   │   └─→ Call CartService.AddToCart(userId, productId, quantity)
+   │
+4. ⚙️ CartService.AddToCart()
+   │   │
+   │   ├─→ Kiểm tra user có Cart active?
+   │   ├─→ Kiểm tra Product còn Stock?
+   │   ├─→ Kiểm tra Product đã có trong Cart?
+   │   │
+   │   └─→ DbContext.CartDetails.Add() hoặc Update()
+   │       DbContext.SaveChanges()
+   │
+5. 🎮 Controller return JSON { success: true, cartCount: 3 }
+   │
+6. 📡 JavaScript nhận response
+   │
+7. 🖥️ Cập nhật UI: số lượng giỏ hàng trong navbar
+   │
+8. ✅ Hiển thị toast notification "Đã thêm vào giỏ hàng"
+
+
+╔═══════════════════════════════════════════════════════════════════════════════╗
+║                            PHÂN QUYỀN ROLES                                  ║
+╚═══════════════════════════════════════════════════════════════════════════════╝
+
+┌──────────────────────────────────────────────────────────────────┐
+│ 👑 ADMIN                                                         │
+├──────────────────────────────────────────────────────────────────┤
+│ ✅ Quản lý Products (CRUD)                                       │
+│ ✅ Quản lý Orders (View, Approve, Reject)                       │
+│ ✅ Quản lý Users (View, Edit, Deactivate)                       │
+│ ✅ Xem Reports & Statistics                                      │
+│ ✅ Full Access                                                   │
+└──────────────────────────────────────────────────────────────────┘
+
+┌──────────────────────────────────────────────────────────────────┐
+│ 👨‍💼 STAFF (Nhân viên)                                           │
+├──────────────────────────────────────────────────────────────────┤
+│ ✅ Quản lý Products (CRUD)                                       │
+│ ✅ Duyệt Orders                                                  │
+│ ✅ Cập nhật thông tin cá nhân                                    │
+│ ❌ KHÔNG quản lý Users                                           │
+│ ❌ KHÔNG xem Reports                                             │
+└──────────────────────────────────────────────────────────────────┘
+
+┌──────────────────────────────────────────────────────────────────┐
+│ 👤 CUSTOMER (Khách hàng)                                         │
+├──────────────────────────────────────────────────────────────────┤
+│ ✅ Xem sản phẩm                                                  │
+│ ✅ Tìm kiếm, filter sản phẩm                                     │
+│ ✅ Thêm vào giỏ hàng                                            │
+│ ✅ Đặt hàng                                                      │
+│ ✅ Xem đơn hàng của mình                                        │
+│ ✅ Cập nhật thông tin cá nhân                                    │
+│ ❌ KHÔNG truy cập Admin area                                     │
+└──────────────────────────────────────────────────────────────────┘
+
+
+╔═══════════════════════════════════════════════════════════════════════════════╗
+║                        SESSION MANAGEMENT                                     ║
+╚═══════════════════════════════════════════════════════════════════════════════╝
+
+Session["UserId"]      → int        → ID người dùng
+Session["Username"]    → string     → Tên đăng nhập
+Session["FullName"]    → string     → Tên đầy đủ
+Session["Role"]        → string     → Admin/Staff/Customer
+Session["CartCount"]   → int        → Số lượng items trong giỏ
+
+
+╔═══════════════════════════════════════════════════════════════════════════════╗
+║                         PACKAGES CẦN CÀI ĐẶT                                 ║
+╚═══════════════════════════════════════════════════════════════════════════════╝
+
+📦 Microsoft.EntityFrameworkCore.SqlServer (8.0.0)
+📦 Microsoft.EntityFrameworkCore.Tools (8.0.0)
+📦 Microsoft.EntityFrameworkCore.Design (8.0.0)
+📦 BCrypt.Net-Next (4.0.3)
+📦 Microsoft.AspNetCore.Session (2.2.0) - optional, built-in core 8
+
+
+╔═══════════════════════════════════════════════════════════════════════════════╗
+║                    NAMING CONVENTIONS (Quan trọng!)                          ║
+╚═══════════════════════════════════════════════════════════════════════════════╝
+
+Controllers        → PascalCase + "Controller"     → ProductController
+Actions            → PascalCase verbs              → Index, Create, Edit
+Views              → PascalCase                    → Index.cshtml
+Models             → PascalCase singular           → Product, User
+ViewModels         → PascalCase + "ViewModel"      → LoginViewModel
+Services           → PascalCase + "Service"        → ProductService
+Interfaces         → "I" + PascalCase              → IProductService
+Private fields     → camelCase with _              → _context, _service
+Public properties  → PascalCase                    → ProductId, FullName
+Database tables    → PascalCase plural             → Products, Users
+
+
+╔═══════════════════════════════════════════════════════════════════════════════╗
+║                         TIPS & BEST PRACTICES                                ║
+╚═══════════════════════════════════════════════════════════════════════════════╝
+
+✅ Luôn dùng async/await cho database operations
+✅ Hash password trước khi lưu database
+✅ Validate ở cả client-side và server-side
+✅ Sử dụng try-catch trong Services
+✅ Log errors để dễ debug
+✅ AJAX cho Add to Cart (UX tốt)
+✅ Phân trang cho danh sách dài
+✅ Responsive design với Bootstrap
+✅ Optimize images (resize trước khi save)
+✅ Session timeout handling
+
+
+╔═══════════════════════════════════════════════════════════════════════════════╗
+║                         ĐIỂM CỘNG CHO ASSIGNMENT                             ║
+╚═══════════════════════════════════════════════════════════════════════════════╝
+
+🌟 Repository Pattern (optional - nâng cao)
+🌟 Dependency Injection (built-in .NET Core)
+🌟 AJAX operations
+🌟 Image upload & validation
+🌟 Search & Filter functionality
+🌟 Pagination
+🌟 Session management
+🌟 Error handling tốt
+🌟 Clean code & comments
+🌟 Responsive UI
+
+
+╔═══════════════════════════════════════════════════════════════════════════════╗
+║                              KẾT LUẬN                                        ║
+╚═══════════════════════════════════════════════════════════════════════════════╝
+
+Cấu trúc này:
+✅ Tuân thủ MVC pattern chuẩn ASP.NET Core
+✅ Separation of Concerns rõ ràng
+✅ Dễ maintain và mở rộng
+✅ Professional nhưng không quá phức tạp
+✅ Đủ chức năng cho Assignment (60% điểm môn)
+✅ Có thể học thêm nhiều concept thực tế
+
+👉 Tiếp theo: Tạo Project và implement từng phần!

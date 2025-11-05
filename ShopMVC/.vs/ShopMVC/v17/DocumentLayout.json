@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\maydi\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\FPTPolytechnic\\NET107 - L\u1EADp tr\u00ECnh web c\u01A1 b\u1EA3n (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B965DC6E-3296-4F1A-9D01-1C22BB4EA1A0}|ShopMVC\\ShopMVC.csproj|c:\\users\\maydi\\onedrive\\ta\u0300i li\u00EA\u0323u\\fptpolytechnic\\net107 - l\u1EADp tr\u00ECnh web c\u01A1 b\u1EA3n (.net)-20250920t041209z-1-001\\assignment-net107-shopmvc\\shopmvc\\shopmvc\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B965DC6E-3296-4F1A-9D01-1C22BB4EA1A0}|ShopMVC\\ShopMVC.csproj|solutionrelative:shopmvc\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B965DC6E-3296-4F1A-9D01-1C22BB4EA1A0}|ShopMVC\\ShopMVC.csproj|c:\\users\\maydi\\onedrive\\ta\u0300i li\u00EA\u0323u\\fptpolytechnic\\net107 - l\u1EADp tr\u00ECnh web c\u01A1 b\u1EA3n (.net)-20250920t041209z-1-001\\assignment-net107-shopmvc\\shopmvc\\shopmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B965DC6E-3296-4F1A-9D01-1C22BB4EA1A0}|ShopMVC\\ShopMVC.csproj|solutionrelative:shopmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B965DC6E-3296-4F1A-9D01-1C22BB4EA1A0}|ShopMVC\\ShopMVC.csproj|c:\\users\\maydi\\onedrive\\ta\u0300i li\u00EA\u0323u\\fptpolytechnic\\net107 - l\u1EADp tr\u00ECnh web c\u01A1 b\u1EA3n (.net)-20250920t041209z-1-001\\assignment-net107-shopmvc\\shopmvc\\shopmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B965DC6E-3296-4F1A-9D01-1C22BB4EA1A0}|ShopMVC\\ShopMVC.csproj|solutionrelative:shopmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B965DC6E-3296-4F1A-9D01-1C22BB4EA1A0}|ShopMVC\\ShopMVC.csproj|c:\\users\\maydi\\onedrive\\ta\u0300i li\u00EA\u0323u\\fptpolytechnic\\net107 - l\u1EADp tr\u00ECnh web c\u01A1 b\u1EA3n (.net)-20250920t041209z-1-001\\assignment-net107-shopmvc\\shopmvc\\shopmvc\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B965DC6E-3296-4F1A-9D01-1C22BB4EA1A0}|ShopMVC\\ShopMVC.csproj|solutionrelative:shopmvc\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B965DC6E-3296-4F1A-9D01-1C22BB4EA1A0}|ShopMVC\\ShopMVC.csproj|c:\\users\\maydi\\onedrive\\ta\u0300i li\u00EA\u0323u\\fptpolytechnic\\net107 - l\u1EADp tr\u00ECnh web c\u01A1 b\u1EA3n (.net)-20250920t041209z-1-001\\assignment-net107-shopmvc\\shopmvc\\shopmvc\\services\\implementations\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B965DC6E-3296-4F1A-9D01-1C22BB4EA1A0}|ShopMVC\\ShopMVC.csproj|solutionrelative:shopmvc\\services\\implementations\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B965DC6E-3296-4F1A-9D01-1C22BB4EA1A0}|ShopMVC\\ShopMVC.csproj|c:\\users\\maydi\\onedrive\\ta\u0300i li\u00EA\u0323u\\fptpolytechnic\\net107 - l\u1EADp tr\u00ECnh web c\u01A1 b\u1EA3n (.net)-20250920t041209z-1-001\\assignment-net107-shopmvc\\shopmvc\\shopmvc\\services\\implementations\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B965DC6E-3296-4F1A-9D01-1C22BB4EA1A0}|ShopMVC\\ShopMVC.csproj|solutionrelative:shopmvc\\services\\implementations\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B965DC6E-3296-4F1A-9D01-1C22BB4EA1A0}|ShopMVC\\ShopMVC.csproj|c:\\users\\maydi\\onedrive\\ta\u0300i li\u00EA\u0323u\\fptpolytechnic\\net107 - l\u1EADp tr\u00ECnh web c\u01A1 b\u1EA3n (.net)-20250920t041209z-1-001\\assignment-net107-shopmvc\\shopmvc\\shopmvc\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B965DC6E-3296-4F1A-9D01-1C22BB4EA1A0}|ShopMVC\\ShopMVC.csproj|solutionrelative:shopmvc\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B965DC6E-3296-4F1A-9D01-1C22BB4EA1A0}|ShopMVC\\ShopMVC.csproj|c:\\users\\maydi\\onedrive\\ta\u0300i li\u00EA\u0323u\\fptpolytechnic\\net107 - l\u1EADp tr\u00ECnh web c\u01A1 b\u1EA3n (.net)-20250920t041209z-1-001\\assignment-net107-shopmvc\\shopmvc\\shopmvc\\services\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B965DC6E-3296-4F1A-9D01-1C22BB4EA1A0}|ShopMVC\\ShopMVC.csproj|solutionrelative:shopmvc\\services\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B965DC6E-3296-4F1A-9D01-1C22BB4EA1A0}|ShopMVC\\ShopMVC.csproj|c:\\users\\maydi\\onedrive\\ta\u0300i li\u00EA\u0323u\\fptpolytechnic\\net107 - l\u1EADp tr\u00ECnh web c\u01A1 b\u1EA3n (.net)-20250920t041209z-1-001\\assignment-net107-shopmvc\\shopmvc\\shopmvc\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B965DC6E-3296-4F1A-9D01-1C22BB4EA1A0}|ShopMVC\\ShopMVC.csproj|solutionrelative:shopmvc\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B965DC6E-3296-4F1A-9D01-1C22BB4EA1A0}|ShopMVC\\ShopMVC.csproj|c:\\users\\maydi\\onedrive\\ta\u0300i li\u00EA\u0323u\\fptpolytechnic\\net107 - l\u1EADp tr\u00ECnh web c\u01A1 b\u1EA3n (.net)-20250920t041209z-1-001\\assignment-net107-shopmvc\\shopmvc\\shopmvc\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B965DC6E-3296-4F1A-9D01-1C22BB4EA1A0}|ShopMVC\\ShopMVC.csproj|solutionrelative:shopmvc\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B965DC6E-3296-4F1A-9D01-1C22BB4EA1A0}|ShopMVC\\ShopMVC.csproj|c:\\users\\maydi\\onedrive\\ta\u0300i li\u00EA\u0323u\\fptpolytechnic\\net107 - l\u1EADp tr\u00ECnh web c\u01A1 b\u1EA3n (.net)-20250920t041209z-1-001\\assignment-net107-shopmvc\\shopmvc\\shopmvc\\services\\implementations\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B965DC6E-3296-4F1A-9D01-1C22BB4EA1A0}|ShopMVC\\ShopMVC.csproj|solutionrelative:shopmvc\\services\\implementations\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B965DC6E-3296-4F1A-9D01-1C22BB4EA1A0}|ShopMVC\\ShopMVC.csproj|c:\\users\\maydi\\onedrive\\ta\u0300i li\u00EA\u0323u\\fptpolytechnic\\net107 - l\u1EADp tr\u00ECnh web c\u01A1 b\u1EA3n (.net)-20250920t041209z-1-001\\assignment-net107-shopmvc\\shopmvc\\shopmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B965DC6E-3296-4F1A-9D01-1C22BB4EA1A0}|ShopMVC\\ShopMVC.csproj|solutionrelative:shopmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B965DC6E-3296-4F1A-9D01-1C22BB4EA1A0}|ShopMVC\\ShopMVC.csproj|c:\\users\\maydi\\onedrive\\ta\u0300i li\u00EA\u0323u\\fptpolytechnic\\net107 - l\u1EADp tr\u00ECnh web c\u01A1 b\u1EA3n (.net)-20250920t041209z-1-001\\assignment-net107-shopmvc\\shopmvc\\shopmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B965DC6E-3296-4F1A-9D01-1C22BB4EA1A0}|ShopMVC\\ShopMVC.csproj|solutionrelative:shopmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B965DC6E-3296-4F1A-9D01-1C22BB4EA1A0}|ShopMVC\\ShopMVC.csproj|c:\\users\\maydi\\onedrive\\ta\u0300i li\u00EA\u0323u\\fptpolytechnic\\net107 - l\u1EADp tr\u00ECnh web c\u01A1 b\u1EA3n (.net)-20250920t041209z-1-001\\assignment-net107-shopmvc\\shopmvc\\shopmvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B965DC6E-3296-4F1A-9D01-1C22BB4EA1A0}|ShopMVC\\ShopMVC.csproj|solutionrelative:shopmvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\maydi\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\FPTPolytechnic\\NET107 - L\u1EADp tr\u00ECnh web c\u01A1 b\u1EA3n (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ShopMVC\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\maydi\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\FPTPolytechnic\\NET107 - L\u1EADp tr\u00ECnh web c\u01A1 b\u1EA3n (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\Models\\Product.cs",
+              "RelativeToolTip": "ShopMVC\\Models\\Product.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwA4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T04:41:05.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\maydi\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\FPTPolytechnic\\NET107 - L\u1EADp tr\u00ECnh web c\u01A1 b\u1EA3n (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ShopMVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\maydi\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\FPTPolytechnic\\NET107 - L\u1EADp tr\u00ECnh web c\u01A1 b\u1EA3n (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ShopMVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-05T04:26:17.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CartService.cs",
+              "DocumentMoniker": "C:\\Users\\maydi\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\FPTPolytechnic\\NET107 - L\u1EADp tr\u00ECnh web c\u01A1 b\u1EA3n (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\Services\\Implementations\\CartService.cs",
+              "RelativeDocumentMoniker": "ShopMVC\\Services\\Implementations\\CartService.cs",
+              "ToolTip": "C:\\Users\\maydi\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\FPTPolytechnic\\NET107 - L\u1EADp tr\u00ECnh web c\u01A1 b\u1EA3n (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\Services\\Implementations\\CartService.cs",
+              "RelativeToolTip": "ShopMVC\\Services\\Implementations\\CartService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T04:04:21.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\maydi\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\FPTPolytechnic\\NET107 - L\u1EADp tr\u00ECnh web c\u01A1 b\u1EA3n (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ShopMVC\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\maydi\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\FPTPolytechnic\\NET107 - L\u1EADp tr\u00ECnh web c\u01A1 b\u1EA3n (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ShopMVC\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAIAwwCsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T04:03:48.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\maydi\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\FPTPolytechnic\\NET107 - L\u1EADp tr\u00ECnh web c\u01A1 b\u1EA3n (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ShopMVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\maydi\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\FPTPolytechnic\\NET107 - L\u1EADp tr\u00ECnh web c\u01A1 b\u1EA3n (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ShopMVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAIwHMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-05T04:01:58.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\maydi\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\FPTPolytechnic\\NET107 - L\u1EADp tr\u00ECnh web c\u01A1 b\u1EA3n (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "ShopMVC\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\maydi\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\FPTPolytechnic\\NET107 - L\u1EADp tr\u00ECnh web c\u01A1 b\u1EA3n (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "ShopMVC\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-05T03:54:03.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\maydi\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\FPTPolytechnic\\NET107 - L\u1EADp tr\u00ECnh web c\u01A1 b\u1EA3n (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "ShopMVC\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\maydi\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\FPTPolytechnic\\NET107 - L\u1EADp tr\u00ECnh web c\u01A1 b\u1EA3n (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "ShopMVC\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAuwBkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T03:53:01.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\maydi\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\FPTPolytechnic\\NET107 - L\u1EADp tr\u00ECnh web c\u01A1 b\u1EA3n (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\ViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "ShopMVC\\ViewModels\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\maydi\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\FPTPolytechnic\\NET107 - L\u1EADp tr\u00ECnh web c\u01A1 b\u1EA3n (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\ViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "ShopMVC\\ViewModels\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T03:52:36.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AdminService.cs",
+              "DocumentMoniker": "C:\\Users\\maydi\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\FPTPolytechnic\\NET107 - L\u1EADp tr\u00ECnh web c\u01A1 b\u1EA3n (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\Services\\Implementations\\AdminService.cs",
+              "RelativeDocumentMoniker": "ShopMVC\\Services\\Implementations\\AdminService.cs",
+              "ToolTip": "C:\\Users\\maydi\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\FPTPolytechnic\\NET107 - L\u1EADp tr\u00ECnh web c\u01A1 b\u1EA3n (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\Services\\Implementations\\AdminService.cs",
+              "RelativeToolTip": "ShopMVC\\Services\\Implementations\\AdminService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T03:51:57.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\maydi\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\FPTPolytechnic\\NET107 - L\u1EADp tr\u00ECnh web c\u01A1 b\u1EA3n (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\Services\\Interfaces\\IAuthService.cs",
+              "RelativeDocumentMoniker": "ShopMVC\\Services\\Interfaces\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\maydi\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\FPTPolytechnic\\NET107 - L\u1EADp tr\u00ECnh web c\u01A1 b\u1EA3n (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\Services\\Interfaces\\IAuthService.cs",
+              "RelativeToolTip": "ShopMVC\\Services\\Interfaces\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T03:51:22.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\maydi\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\FPTPolytechnic\\NET107 - L\u1EADp tr\u00ECnh web c\u01A1 b\u1EA3n (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\Services\\Implementations\\AuthService.cs",
+              "RelativeDocumentMoniker": "ShopMVC\\Services\\Implementations\\AuthService.cs",
+              "ToolTip": "C:\\Users\\maydi\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\FPTPolytechnic\\NET107 - L\u1EADp tr\u00ECnh web c\u01A1 b\u1EA3n (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\Services\\Implementations\\AuthService.cs",
+              "RelativeToolTip": "ShopMVC\\Services\\Implementations\\AuthService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCcAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T03:48:17.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\maydi\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\FPTPolytechnic\\NET107 - L\u1EADp tr\u00ECnh web c\u01A1 b\u1EA3n (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ShopMVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\maydi\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\FPTPolytechnic\\NET107 - L\u1EADp tr\u00ECnh web c\u01A1 b\u1EA3n (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ShopMVC\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T03:41:41.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\maydi\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\FPTPolytechnic\\NET107 - L\u1EADp tr\u00ECnh web c\u01A1 b\u1EA3n (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\Program.cs",
+              "RelativeDocumentMoniker": "ShopMVC\\Program.cs",
+              "ToolTip": "C:\\Users\\maydi\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\FPTPolytechnic\\NET107 - L\u1EADp tr\u00ECnh web c\u01A1 b\u1EA3n (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\Program.cs",
+              "RelativeToolTip": "ShopMVC\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T03:36:54.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\maydi\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\FPTPolytechnic\\NET107 - L\u1EADp tr\u00ECnh web c\u01A1 b\u1EA3n (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\appsettings.json",
+              "RelativeDocumentMoniker": "ShopMVC\\appsettings.json",
+              "ToolTip": "C:\\Users\\maydi\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\FPTPolytechnic\\NET107 - L\u1EADp tr\u00ECnh web c\u01A1 b\u1EA3n (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\appsettings.json",
+              "RelativeToolTip": "ShopMVC\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-05T03:27:59.51Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

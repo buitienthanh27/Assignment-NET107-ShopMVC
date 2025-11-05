@@ -1,0 +1,2029 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ShopMVC.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ShopMVC.eedcc0oynj.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\css\\animate.css",
+      "PackagePath": "staticwebassets\\assets\\css\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\css\\fontawesome-pro.css",
+      "PackagePath": "staticwebassets\\assets\\css\\fontawesome-pro.css"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\css\\grocery.css",
+      "PackagePath": "staticwebassets\\assets\\css\\grocery.css"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\css\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\assets\\css\\magnific-popup.css"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\css\\main.css",
+      "PackagePath": "staticwebassets\\assets\\css\\main.css"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\css\\main.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\main.css.map"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\css\\meanmenu.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\meanmenu.min.css"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\css\\mian.css",
+      "PackagePath": "staticwebassets\\assets\\css\\mian.css"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\css\\mian.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\mian.css.map"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\css\\pharmecy.css",
+      "PackagePath": "staticwebassets\\assets\\css\\pharmecy.css"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\css\\slick.css",
+      "PackagePath": "staticwebassets\\assets\\css\\slick.css"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\css\\spacing.css",
+      "PackagePath": "staticwebassets\\assets\\css\\spacing.css"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\css\\swiper.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\swiper.min.css"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\fonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\fonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\fonts\\fa-light-300.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-light-300.ttf"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\fonts\\fa-light-300.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-light-300.woff2"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\fonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\fonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\fonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\fonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\fonts\\fa-thin-100.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-thin-100.ttf"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\fonts\\fa-thin-100.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-thin-100.woff2"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\fonts\\fa-v4compatibility.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-v4compatibility.ttf"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\fonts\\fa-v4compatibility.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-v4compatibility.woff2"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\about\\about-thumb-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\about\\about-thumb-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\about\\about-thumb-10.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\about\\about-thumb-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\about\\about-thumb-11.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\about\\about-thumb-11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\about\\about-thumb-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\about\\about-thumb-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\about\\about-thumb-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\about\\about-thumb-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\about\\about-thumb-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\about\\about-thumb-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\about\\about-thumb-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\about\\about-thumb-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\about\\about-thumb-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\about\\about-thumb-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\about\\about-thumb-7.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\about\\about-thumb-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\about\\about-thumb-8.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\about\\about-thumb-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\about\\about-thumb-9.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\about\\about-thumb-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\about\\dot.svg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\about\\dot.svg"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\about\\info-01.svg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\about\\info-01.svg"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\about\\info-02.svg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\about\\info-02.svg"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\about\\signature.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\about\\signature.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\advantage\\icon-1.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\advantage\\icon-1.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\advantage\\icon-2.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\advantage\\icon-2.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\advantage\\icon-3.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\advantage\\icon-3.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\app\\apple-store.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\app\\apple-store.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\app\\play-store.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\app\\play-store.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\appointment\\appointment-02.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\appointment\\appointment-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\appointment\\appointment-03.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\appointment\\appointment-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\appointment\\appointment-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\appointment\\appointment-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\appointment\\appointment.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\appointment\\appointment.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\banner\\ad.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\banner\\ad.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\banner\\banner-1.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\banner\\banner-1.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\banner\\banner-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\banner\\banner-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\banner\\banner-3.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\banner\\banner-3.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\banner\\banner-4-1.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\banner\\banner-4-1.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\banner\\banner-4-2.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\banner\\banner-4-2.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\banner\\banner-4-3.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\banner\\banner-4-3.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\banner\\banner-bg.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\banner\\banner-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\banner\\product-banner.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\banner\\product-banner.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\bg\\appointment-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\bg\\appointment-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\bg\\appointment-bg.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\bg\\appointment-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\bg\\breadcrumb-bg-furniture.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\bg\\breadcrumb-bg-furniture.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\bg\\breadcrumb-bg-grocery.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\bg\\breadcrumb-bg-grocery.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\bg\\breadcrumb-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\bg\\breadcrumb-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\bg\\breadcrumb-pharmacy.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\bg\\breadcrumb-pharmacy.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\bg\\error.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\bg\\error.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\bg\\intro-bg.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\bg\\intro-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\bg\\service-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\bg\\service-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\bg\\service-bg.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\bg\\service-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\bg\\testimonial-bg.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\bg\\testimonial-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\blog\\blog-10.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\blog\\blog-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\blog\\blog-11.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\blog\\blog-11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\blog\\blog-12.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\blog\\blog-12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\blog\\blog-13.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\blog\\blog-13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\blog\\blog-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\blog\\blog-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\blog\\blog-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\blog\\blog-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\blog\\blog-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\blog\\blog-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\blog\\blog-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\blog\\blog-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\blog\\blog-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\blog\\blog-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\blog\\blog-7.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\blog\\blog-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\blog\\blog-8.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\blog\\blog-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\blog\\blog-9.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\blog\\blog-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\blog\\grid\\blog-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\blog\\grid\\blog-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\blog\\grid\\blog-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\blog\\grid\\blog-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\blog\\grid\\blog-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\blog\\grid\\blog-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\blog\\grid\\blog-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\blog\\grid\\blog-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\blog\\grid\\blog-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\blog\\grid\\blog-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\blog\\grid\\blog-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\blog\\grid\\blog-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\blog\\grid\\blog-7.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\blog\\grid\\blog-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\blog\\grid\\blog-8.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\blog\\grid\\blog-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\blog\\grid\\blog-9.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\blog\\grid\\blog-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\blog\\postbox\\postbox-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\blog\\postbox\\postbox-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\blog\\postbox\\postbox-02.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\blog\\postbox\\postbox-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\blog\\postbox\\postbox-03.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\blog\\postbox\\postbox-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\blog\\postbox\\postbox-04.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\blog\\postbox\\postbox-04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\blog\\postbox\\postbox-05.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\blog\\postbox\\postbox-05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\blog\\postbox\\postbox-06.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\blog\\postbox\\postbox-06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\blog\\postbox\\postbox-07.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\blog\\postbox\\postbox-07.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\brand\\brand-01.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\brand\\brand-01.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\brand\\brand-02.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\brand\\brand-02.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\brand\\brand-03.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\brand\\brand-03.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\brand\\brand-04.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\brand\\brand-04.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\brand\\brand-05.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\brand\\brand-05.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\brand\\brand-2-1.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\brand\\brand-2-1.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\brand\\brand-2-2.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\brand\\brand-2-2.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\brand\\brand-2-3.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\brand\\brand-2-3.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\brand\\brand-2-4.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\brand\\brand-2-4.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\brand\\brand-2-5.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\brand\\brand-2-5.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\comming\\coming-soon-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\comming\\coming-soon-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\doctor\\doctor-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\doctor\\doctor-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\doctor\\doctor-02.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\doctor\\doctor-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\doctor\\doctor-03.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\doctor\\doctor-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\doctor\\doctor-author.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\doctor\\doctor-author.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\favicon.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\features\\01.svg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\features\\01.svg"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\features\\02.svg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\features\\02.svg"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\features\\03.svg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\features\\03.svg"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\furniture\\about\\about-image1.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\furniture\\about\\about-image1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\furniture\\about\\about-image2.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\furniture\\about\\about-image2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\furniture\\about\\about-video-image.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\furniture\\about\\about-video-image.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\furniture\\ad\\ad-discount.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\furniture\\ad\\ad-discount.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\furniture\\ad\\ad-timer.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\furniture\\ad\\ad-timer.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\furniture\\banner\\bg.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\furniture\\banner\\bg.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\furniture\\banner\\chair1.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\furniture\\banner\\chair1.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\furniture\\banner\\chair2.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\furniture\\banner\\chair2.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\furniture\\banner\\chair3.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\furniture\\banner\\chair3.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\furniture\\banner\\circle.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\furniture\\banner\\circle.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\furniture\\blog\\blog-image1.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\furniture\\blog\\blog-image1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\furniture\\blog\\blog-image2.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\furniture\\blog\\blog-image2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\furniture\\brand\\brand-01.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\furniture\\brand\\brand-01.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\furniture\\brand\\brand-02.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\furniture\\brand\\brand-02.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\furniture\\brand\\brand-03.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\furniture\\brand\\brand-03.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\furniture\\brand\\brand-04.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\furniture\\brand\\brand-04.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\furniture\\brand\\brand-05.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\furniture\\brand\\brand-05.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\furniture\\favicon.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\furniture\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\furniture\\icon\\tag.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\furniture\\icon\\tag.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\furniture\\logo\\logo-light.svg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\furniture\\logo\\logo-light.svg"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\furniture\\logo\\logo.svg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\furniture\\logo\\logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\furniture\\product\\fs-01.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\furniture\\product\\fs-01.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\furniture\\product\\fs-02.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\furniture\\product\\fs-02.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\furniture\\product\\fs-03.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\furniture\\product\\fs-03.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\furniture\\product\\fs-04.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\furniture\\product\\fs-04.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\furniture\\product\\fs-05.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\furniture\\product\\fs-05.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\furniture\\product\\fs-06.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\furniture\\product\\fs-06.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\furniture\\product\\off-01.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\furniture\\product\\off-01.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\furniture\\product\\off-02.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\furniture\\product\\off-02.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\furniture\\product\\product1.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\furniture\\product\\product1.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\furniture\\product\\product2.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\furniture\\product\\product2.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\furniture\\product\\product3.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\furniture\\product\\product3.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\furniture\\product\\product4.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\furniture\\product\\product4.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\furniture\\product\\product5.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\furniture\\product\\product5.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\furniture\\product\\product6.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\furniture\\product\\product6.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\furniture\\product\\product7.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\furniture\\product\\product7.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\furniture\\product\\product8.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\furniture\\product\\product8.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\furniture\\rating\\bg-image.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\furniture\\rating\\bg-image.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\furniture\\store\\store-image1.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\furniture\\store\\store-image1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\furniture\\store\\store-image2.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\furniture\\store\\store-image2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\furniture\\store\\store-image3.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\furniture\\store\\store-image3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\furniture\\store\\store-image4.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\furniture\\store\\store-image4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\furniture\\testimonial\\bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\furniture\\testimonial\\bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\grocery\\banner\\bg.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\grocery\\banner\\bg.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\grocery\\banner\\discount-tag.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\grocery\\banner\\discount-tag.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\grocery\\banner\\product1.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\grocery\\banner\\product1.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\grocery\\banner\\product2.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\grocery\\banner\\product2.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\grocery\\banner\\product3.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\grocery\\banner\\product3.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\grocery\\banner\\timer.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\grocery\\banner\\timer.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\grocery\\blog\\blog-image1.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\grocery\\blog\\blog-image1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\grocery\\blog\\blog-image2.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\grocery\\blog\\blog-image2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\grocery\\brand\\brand-01.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\grocery\\brand\\brand-01.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\grocery\\brand\\brand-02.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\grocery\\brand\\brand-02.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\grocery\\brand\\brand-03.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\grocery\\brand\\brand-03.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\grocery\\brand\\brand-04.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\grocery\\brand\\brand-04.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\grocery\\brand\\brand-05.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\grocery\\brand\\brand-05.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\grocery\\favicon.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\grocery\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\grocery\\icon\\category-01.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\grocery\\icon\\category-01.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\grocery\\icon\\category-02.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\grocery\\icon\\category-02.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\grocery\\icon\\category-03.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\grocery\\icon\\category-03.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\grocery\\icon\\category-04.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\grocery\\icon\\category-04.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\grocery\\icon\\category-05.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\grocery\\icon\\category-05.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\grocery\\icon\\category-06.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\grocery\\icon\\category-06.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\grocery\\icon\\tag.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\grocery\\icon\\tag.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\grocery\\logo\\logo-light.svg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\grocery\\logo\\logo-light.svg"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\grocery\\logo\\logo.svg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\grocery\\logo\\logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\grocery\\product\\fs-01.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\grocery\\product\\fs-01.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\grocery\\product\\fs-02.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\grocery\\product\\fs-02.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\grocery\\product\\fs-03.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\grocery\\product\\fs-03.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\grocery\\product\\fs-04.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\grocery\\product\\fs-04.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\grocery\\product\\fs-05.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\grocery\\product\\fs-05.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\grocery\\product\\fs-06.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\grocery\\product\\fs-06.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\grocery\\product\\fs-07.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\grocery\\product\\fs-07.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\grocery\\product\\fs-08.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\grocery\\product\\fs-08.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\grocery\\product\\fs-09.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\grocery\\product\\fs-09.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\grocery\\product\\off-01.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\grocery\\product\\off-01.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\grocery\\product\\off-02.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\grocery\\product\\off-02.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\grocery\\product\\product1.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\grocery\\product\\product1.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\grocery\\product\\product2.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\grocery\\product\\product2.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\grocery\\product\\product3.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\grocery\\product\\product3.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\grocery\\product\\product4.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\grocery\\product\\product4.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\grocery\\product\\product5.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\grocery\\product\\product5.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\grocery\\product\\product6.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\grocery\\product\\product6.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\grocery\\product\\product7.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\grocery\\product\\product7.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\grocery\\product\\product8.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\grocery\\product\\product8.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\grocery\\rating\\bg-image.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\grocery\\rating\\bg-image.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\grocery\\testimonial\\bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\grocery\\testimonial\\bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\icons\\arrow.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\icons\\arrow.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\icons\\call-white.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\icons\\call-white.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\icons\\call.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\icons\\call.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\icons\\cross-out.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\icons\\cross-out.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\icons\\hero-ragtangle.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\icons\\hero-ragtangle.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\icons\\maser.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\icons\\maser.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\icons\\medicle.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\icons\\medicle.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\icons\\payoneer.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\icons\\payoneer.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\icons\\paypal.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\icons\\paypal.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\icons\\quote-blue.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\icons\\quote-blue.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\icons\\quote-white.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\icons\\quote-white.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\icons\\quote.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\icons\\quote.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\logo\\logo-light.svg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\logo\\logo-light.svg"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\logo\\logo-white.svg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\logo\\logo-white.svg"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\logo\\logo.svg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\logo\\logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\meta\\avater-01.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\meta\\avater-01.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\meta\\avater-02.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\meta\\avater-02.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\meta\\meta-01.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\meta\\meta-01.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\meta\\meta-02.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\meta\\meta-02.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\meta\\meta-03.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\meta\\meta-03.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\meta\\meta-04.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\meta\\meta-04.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\pharmacy-favicon.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\pharmacy-favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\process\\process.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\process\\process.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\product\\details\\details-01.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\product\\details\\details-01.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\product\\details\\details-02.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\product\\details\\details-02.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\product\\details\\details-03.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\product\\details\\details-03.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\product\\details\\details-04.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\product\\details\\details-04.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\product\\details\\details-05.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\product\\details\\details-05.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\product\\details\\details-06.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\product\\details\\details-06.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\product\\details\\details-07.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\product\\details\\details-07.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\product\\details\\details-08.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\product\\details\\details-08.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\product\\details\\details-09.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\product\\details\\details-09.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\product\\discount\\discount-01.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\product\\discount\\discount-01.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\product\\discount\\discount-02.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\product\\discount\\discount-02.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\product\\discount\\discount-03.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\product\\discount\\discount-03.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\product\\discount\\discount-04.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\product\\discount\\discount-04.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\product\\discount\\discount-05.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\product\\discount\\discount-05.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\product\\product-01.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\product\\product-01.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\product\\product-02.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\product\\product-02.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\product\\product-03.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\product\\product-03.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\product\\product-04.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\product\\product-04.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\product\\product-g1.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\product\\product-g1.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\product\\product-g2.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\product\\product-g2.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\product\\product-g3.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\product\\product-g3.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\product\\product-g4.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\product\\product-g4.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\product\\product-g5.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\product\\product-g5.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\product\\product-g6.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\product\\product-g6.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\product\\product-g7.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\product\\product-g7.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\product\\product-g8.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\product\\product-g8.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\product\\product1.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\product\\product1.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\product\\product2.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\product\\product2.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\product\\product3.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\product\\product3.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\product\\product4.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\product\\product4.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\product\\product5.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\product\\product5.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\product\\product6.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\product\\product6.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\product\\product7.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\product\\product7.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\product\\product8.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\product\\product8.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\project\\project-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\project\\project-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\project\\project-02.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\project\\project-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\project\\project-03.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\project\\project-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\project\\project-04.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\project\\project-04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\project\\project-05.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\project\\project-05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\project\\project-06.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\project\\project-06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\project\\project-07.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\project\\project-07.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\project\\project-08.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\project\\project-08.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\project\\project-09.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\project\\project-09.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\project\\project-details.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\project\\project-details.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\service\\icon\\1\\service-1.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\service\\icon\\1\\service-1.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\service\\icon\\1\\service-2-1.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\service\\icon\\1\\service-2-1.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\service\\icon\\1\\service-2-2.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\service\\icon\\1\\service-2-2.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\service\\icon\\1\\service-2-3.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\service\\icon\\1\\service-2-3.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\service\\icon\\1\\service-2-4.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\service\\icon\\1\\service-2-4.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\service\\icon\\1\\service-2-5.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\service\\icon\\1\\service-2-5.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\service\\icon\\1\\service-2.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\service\\icon\\1\\service-2.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\service\\icon\\1\\service-3.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\service\\icon\\1\\service-3.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\service\\icon\\1\\service-4.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\service\\icon\\1\\service-4.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\service\\icon\\1\\service-5.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\service\\icon\\1\\service-5.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\service\\service-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\service\\service-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\service\\service-02.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\service\\service-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\service\\service-03.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\service\\service-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\service\\service-04.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\service\\service-04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\service\\service-05.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\service\\service-05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\service\\service-06.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\service\\service-06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\service\\service-07.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\service\\service-07.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\service\\service-08.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\service\\service-08.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\service\\service-09.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\service\\service-09.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\service\\service-10.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\service\\service-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\service\\service-11.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\service\\service-11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\service\\service-12.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\service\\service-12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\service\\service-13.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\service\\service-13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\service\\service-3-1.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\service\\service-3-1.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\service\\service-3-2.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\service\\service-3-2.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\service\\service-3-3.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\service\\service-3-3.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\service\\service-big-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\service\\service-big-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\service\\service-icon-1.svg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\service\\service-icon-1.svg"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\service\\service-icon-2.svg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\service\\service-icon-2.svg"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\service\\service-icon-3.svg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\service\\service-icon-3.svg"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\service\\service-icon-4.svg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\service\\service-icon-4.svg"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\service\\service-icon-5.svg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\service\\service-icon-5.svg"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\service\\service-icon-6.svg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\service\\service-icon-6.svg"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\shapes\\Frame.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shapes\\Frame.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\shapes\\about-shapes.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shapes\\about-shapes.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\shapes\\arrow-move.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shapes\\arrow-move.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\shapes\\banner-shape-4-01.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shapes\\banner-shape-4-01.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\shapes\\banner-shape-4-02.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shapes\\banner-shape-4-02.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\shapes\\banner-shape-4-03.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shapes\\banner-shape-4-03.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\shapes\\discount.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shapes\\discount.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\shapes\\doctor-tool.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shapes\\doctor-tool.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\shapes\\review-shape-1.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shapes\\review-shape-1.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\shapes\\review-shape-2.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shapes\\review-shape-2.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\shapes\\text-circle.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shapes\\text-circle.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\skill\\skill-01.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\skill\\skill-01.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\slider\\slider-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\slider\\slider-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\slider\\slider-01.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\slider\\slider-01.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\slider\\slider-02.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\slider\\slider-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\slider\\slider-03.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\slider\\slider-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\slider\\user-01.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\slider\\user-01.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\slider\\user-02.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\slider\\user-02.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\slider\\user-03.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\slider\\user-03.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\svg\\phone-call.svg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\svg\\phone-call.svg"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\svg\\plus.svg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\svg\\plus.svg"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\svg\\rating-rate.svg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\svg\\rating-rate.svg"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\team\\team-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\team\\team-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\team\\team-02.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\team\\team-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\team\\team-03.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\team\\team-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\team\\team-04.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\team\\team-04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\team\\team-05.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\team\\team-05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\team\\team-06.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\team\\team-06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\team\\team-07.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\team\\team-07.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\team\\team-08.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\team\\team-08.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\team\\team-09.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\team\\team-09.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\testimonial\\review-thumb.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\testimonial\\review-thumb.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\testimonial\\testimoial-thumb-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\testimonial\\testimoial-thumb-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\user\\user-01.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\user\\user-01.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\user\\user-02.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\user\\user-02.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\user\\user-03.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\user\\user-03.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\user\\user-04.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\user\\user-04.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\user\\user-05.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\user\\user-05.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\user\\user-06.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\user\\user-06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\vaccine\\vaccine-01.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\vaccine\\vaccine-01.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\why\\icon-01.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\why\\icon-01.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\why\\icon-02.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\why\\icon-02.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\why\\icon-03.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\why\\icon-03.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\why\\icon-04.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\why\\icon-04.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\why\\icon-2-1.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\why\\icon-2-1.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\why\\icon-2-2.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\why\\icon-2-2.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\why\\icon-2-3.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\why\\icon-2-3.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\why\\icon-3-1.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\why\\icon-3-1.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\why\\icon-3-2.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\why\\icon-3-2.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\why\\icon-3-3.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\why\\icon-3-3.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\why\\icon-3-4.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\why\\icon-3-4.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\why\\profile_svgrepo.com.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\why\\profile_svgrepo.com.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\why\\why-chouse.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\why\\why-chouse.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\work\\work-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\work\\work-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\work\\work-02.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\work\\work-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\work\\work-icon-1.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\work\\work-icon-1.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\work\\work-icon-2.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\work\\work-icon-2.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\work\\work-icon-3.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\work\\work-icon-3.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\imgs\\work\\work-line.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\work\\work-line.png"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\js\\ajax-form.js",
+      "PackagePath": "staticwebassets\\assets\\js\\ajax-form.js"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\js\\beforeafter.jquery-1.0.0.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\beforeafter.jquery-1.0.0.min.js"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\js\\counterup.js",
+      "PackagePath": "staticwebassets\\assets\\js\\counterup.js"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\js\\jquery-3.6.0.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery-3.6.0.min.js"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\js\\jquery.appear.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.appear.js"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\js\\magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\magnific-popup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\assets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\js\\meanmenu.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\meanmenu.min.js"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\js\\slick.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\slick.min.js"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\js\\swiper.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\swiper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\js\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\waypoints.min.js"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\js\\wow.js",
+      "PackagePath": "staticwebassets\\assets\\js\\wow.js"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\mail.php",
+      "PackagePath": "staticwebassets\\assets\\mail.php"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\scss\\components\\_animation.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\components\\_animation.scss"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\scss\\components\\_background.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\components\\_background.scss"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\scss\\components\\_backtotop.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\components\\_backtotop.scss"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\scss\\components\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\components\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\scss\\components\\_buttons.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\components\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\scss\\components\\_carousel.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\components\\_carousel.scss"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\scss\\components\\_meanmenu.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\components\\_meanmenu.scss"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\scss\\components\\_offcanvas.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\components\\_offcanvas.scss"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\scss\\components\\_pagination.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\components\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\scss\\components\\_preloader.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\components\\_preloader.scss"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\scss\\components\\_search.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\components\\_search.scss"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\scss\\components\\_section-title.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\components\\_section-title.scss"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\scss\\components\\_shortcodes.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\components\\_shortcodes.scss"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\scss\\components\\_soacial.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\components\\_soacial.scss"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\scss\\components\\_space.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\components\\_space.scss"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\scss\\components\\_tab.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\components\\_tab.scss"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\scss\\components\\theme.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\components\\theme.scss"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\scss\\css\\index.css",
+      "PackagePath": "staticwebassets\\assets\\scss\\css\\index.css"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\scss\\css\\index.css.map",
+      "PackagePath": "staticwebassets\\assets\\scss\\css\\index.css.map"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\scss\\css\\theme.css",
+      "PackagePath": "staticwebassets\\assets\\scss\\css\\theme.css"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\scss\\css\\theme.css.map",
+      "PackagePath": "staticwebassets\\assets\\scss\\css\\theme.css.map"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\scss\\layout\\_about.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\layout\\_about.scss"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\scss\\layout\\_accordiong.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\layout\\_accordiong.scss"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\scss\\layout\\_advantage.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\layout\\_advantage.scss"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\scss\\layout\\_appointment.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\layout\\_appointment.scss"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\scss\\layout\\_banner.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\layout\\_banner.scss"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\scss\\layout\\_benifite.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\layout\\_benifite.scss"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\scss\\layout\\_blog.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\layout\\_blog.scss"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\scss\\layout\\_brand.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\layout\\_brand.scss"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\scss\\layout\\_contact.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\layout\\_contact.scss"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\scss\\layout\\_counter.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\layout\\_counter.scss"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\scss\\layout\\_discount.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\layout\\_discount.scss"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\scss\\layout\\_doctor.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\layout\\_doctor.scss"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\scss\\layout\\_error.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\layout\\_error.scss"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\scss\\layout\\_faq.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\layout\\_faq.scss"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\scss\\layout\\_features.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\layout\\_features.scss"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\scss\\layout\\_footer.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\layout\\_footer.scss"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\scss\\layout\\_furniture.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\layout\\_furniture.scss"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\scss\\layout\\_grocery.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\layout\\_grocery.scss"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\scss\\layout\\_header.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\layout\\_header.scss"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\scss\\layout\\_intro.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\layout\\_intro.scss"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\scss\\layout\\_menu.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\layout\\_menu.scss"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\scss\\layout\\_newsletter.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\layout\\_newsletter.scss"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\scss\\layout\\_process.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\layout\\_process.scss"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\scss\\layout\\_product-details.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\layout\\_product-details.scss"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\scss\\layout\\_product.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\layout\\_product.scss"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\scss\\layout\\_project.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\layout\\_project.scss"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\scss\\layout\\_service.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\layout\\_service.scss"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\scss\\layout\\_skill.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\layout\\_skill.scss"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\scss\\layout\\_slider.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\layout\\_slider.scss"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\scss\\layout\\_support.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\layout\\_support.scss"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\scss\\layout\\_team.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\layout\\_team.scss"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\scss\\layout\\_testimonial.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\layout\\_testimonial.scss"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\scss\\layout\\_vaccine.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\layout\\_vaccine.scss"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\scss\\layout\\_what-we-do.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\layout\\_what-we-do.scss"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\scss\\layout\\_why-choose.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\layout\\_why-choose.scss"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\scss\\layout\\_work.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\layout\\_work.scss"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\scss\\main.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\main.scss"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\scss\\utils\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\utils\\_breakpoints.scss"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\scss\\utils\\_colors.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\utils\\_colors.scss"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\scss\\utils\\_extends.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\utils\\_extends.scss"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\scss\\utils\\_mixins.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\utils\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\scss\\utils\\_root.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\utils\\_root.scss"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\scss\\utils\\_typography.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\utils\\_typography.scss"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\scss\\utils\\index.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\utils\\index.scss"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ShopMVC.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ShopMVC.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ShopMVC.props",
+      "PackagePath": "build\\ShopMVC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ShopMVC.props",
+      "PackagePath": "buildMultiTargeting\\ShopMVC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ShopMVC.props",
+      "PackagePath": "buildTransitive\\ShopMVC.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

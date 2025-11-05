@@ -1,0 +1,85 @@
+﻿@model List<ShopMVC.Models.Product>
+@{
+    ViewData["Title"] = "Trang chủ";
+}
+
+<section class="banner-4 p-relative furniture-banner-area fix bg-image pb-100"
+         data-background="/assets/imgs/furniture/banner/bg.png" data-bg-color="#F5F1E6">
+    <div class="swiper banner-active">
+        <div class="swiper-wrapper">
+            <div class="swiper-slide">
+            </div>
+        </div>
+    </div>
+</section>
+<section class="furniture-service pt-100 pb-100">
+</section>
+<section class="furniture-off pb-100">
+</section>
+<section class="fruniture-trendy section-space">
+    <div class="container">
+        <div class="furniture-trendy__header">
+            <div class="section-title-wrapper-4 mb-40">
+                <span class="section-subtitle-4 mb-10">THIS MONTH</span>
+                <h2 class="section-title-4">Sản phẩm từ Database</h2>
+            </div>
+        </div>
+        <div class="product__filter-tab">
+            <div class="tab-content" id="nav-tabContent">
+                <div class="tab-pane fade active show" id="collection" role="tabpanel" aria-labelledby="collection-tab">
+
+                    <div class="row g-4">
+                        @foreach (var product in Model)
+                        {
+                            <div class="col-xxl-3 col-lg-3 col-md-4 col-sm-6 col-6">
+                                <div class="product-item furniture__product">
+                                    <div class="product-thumb theme-bg-2">
+                                        <a href="#">
+                                            <img src="~/images/products/@product.Image" alt="@product.ProductName">
+                                        </a>
+                                        <div class="product-action-item">
+                                            <button type="button" class="product-action-btn">
+                                                <svg width="20" height="22" viewBox="0 0 20 22" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M13.0768 10.1416C13.0768 11.9228 11.648 13.3666 9.88542 13.3666C8.1228 13.3666 6.69401 11.9228 6.69401 10.1416M1.375 5.84163H18.3958M1.375 5.84163V12.2916C1.375 19.1359 2.57494 20.3541 9.88542 20.3541C17.1959 20.3541 18.3958 19.1359 18.3958 12.2916V5.84163M1.375 5.84163L2.91454 2.73011C3.27495 2.00173 4.01165 1.54163 4.81754 1.54163H14.9533C15.7592 1.54163 16.4959 2.00173 16.8563 2.73011L18.3958 5.84163" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" /></svg>
+                                                <span class="product-tooltip">Add to Cart</span>
+                                            </button>
+                                            <button type="button" class="product-action-btn" data-bs-toggle="modal" data-bs-target="#producQuickViewModal">
+                                                <svg width="26" height="18" viewBox="0 0 26 18" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M13.092 4.55026C10.5878 4.55026 8.55683 6.58125 8.55683 9.08541C8.55683 11.5896 10.5878 13.6206 13.092 13.6206C15.5961 13.6206 17.6271 11.5903 17.6271 9.08541C17.6271 6.5805 15.5969 4.55026 13.092 4.55026ZM13.092 12.1089C11.4246 12.1089 10.0338 10.7196 10.0338 9.05216C10.0338 7.38473 11.3898 6.02872 13.0572 6.02872C14.7246 6.02872 16.0807 7.38473 16.0807 9.05216C16.0807 10.7196 14.7594 12.1089 13.092 12.1089ZM25.0965 8.8768C25.0875 8.839 25.092 8.79819 25.0807 8.76115C25.0761 8.74528 25.0655 8.73621 25.0603 8.7226C25.0519 8.70144 25.0542 8.67574 25.0429 8.65533C22.8441 3.62131 18.1064 0.724854 13.0572 0.724854C8.00807 0.724854 3.17511 3.61677 0.975559 8.65079C0.966488 8.67196 0.968 8.69388 0.959686 8.71806C0.954395 8.73318 0.943812 8.74074 0.938521 8.7551C0.927184 8.7929 0.931719 8.83296 0.92416 8.8715C0.910555 8.93953 0.897705 9.00605 0.897705 9.07483C0.897705 9.14361 0.910555 9.20862 0.92416 9.2774C0.931719 9.31519 0.926428 9.35677 0.938521 9.39229C0.943057 9.40968 0.954395 9.41648 0.959686 9.4316C0.967244 9.45201 0.965732 9.4777 0.975559 9.49887C3.17511 14.5314 7.96121 17.381 13.0104 17.381C18.0595 17.381 22.8448 14.5374 25.0436 9.5034C25.055 9.48148 25.0527 9.45956 25.061 9.43538C25.0663 9.42253 25.0761 9.4127 25.0807 9.39758C25.092 9.36055 25.089 9.32049 25.0965 9.28118C25.1101 9.21315 25.1222 9.14739 25.1222 9.0771C25.1222 9.01058 25.1094 8.94482 25.0958 8.87604L25.0965 8.8768ZM13.0104 15.8692C8.72841 15.8692 4.51298 13.6123 2.44193 9.07407C4.49333 4.55177 8.76469 2.23582 13.0572 2.23582C17.349 2.23582 21.5251 4.55404 23.5773 9.07861C21.5266 13.6002 17.3036 15.8692 13.0104 15.8692Z" fill="white" /></svg>
+                                                <span class="product-tooltip">Quick View</span>
+                                            </button>
+                                        </div>
+                                    </div>
+                                    <div class="product-content">
+                                        <h4 class="product-title"><a href="#">@product.ProductName</a></h4>
+                                        <div class="user-rating mb-1">
+                                            <i class="far fa-star"></i>
+                                            <i class="far fa-star"></i>
+                                            <i class="far fa-star"></i>
+                                            <i class="far fa-star"></i>
+                                            <i class="far fa-star"></i>
+                                        </div>
+                                        <div class="product-price">
+                                            <span class="product-new-price">@product.Price.ToString("N0") đ</span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        }
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<section class="furniture-ad pb-100">
+</section>
+<section class="furniture-testimonial section-space bg-image"
+         data-background="/assets/imgs/furniture/testimonial/bg.jpg">
+</section>
+<section class="furniture-seller section-space">
+</section>
+<section class="blog-area theme-bg-2 section-space">
+</section>
+<section class="support-area section-space pb-0">
+</section>
+<div class="brand-area pt-100 pb-100">
+</div>
