@@ -12,11 +12,12 @@
 	/*======================================
 	Mobile Menu Js
 	========================================*/
-	$("#mobile-menu").meanmenu({
-		meanMenuContainer: ".mobile-menu",
-		meanScreenWidth: "991",
-		meanExpand: ['<i class="fal fa-plus"></i>'],
-	});
+	if (typeof $.fn.meanmenu === 'function') {
+		$('#mobile-menu').meanmenu({
+			meanMenuContainer: '.mobile-menu',
+			meanScreenWidth: "992"
+		});
+	}
 
 	$("#mobile-menu-2").meanmenu({
 		meanMenuContainer: ".mobile-menu-2",

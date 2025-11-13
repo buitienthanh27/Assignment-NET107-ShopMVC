@@ -4,36 +4,46 @@ using ShopMVC.Services.Interfaces;
 using ShopMVC.Services.Implementations;
 
 var builder = WebApplication.CreateBuilder(args);
-var connectionString = builder.Configuration.GetConnectionString("PhoneShopDB");
 
-// EF Core DbContext
+// =============================================
+// 1. ADD SERVICES TO THE CONTAINER
+// =============================================
+
+// 📦 DbContext - Đọc connection string từ appsettings.json
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("PhoneShopDB")));
 
-    options.UseSqlServer(connectionString));
+// 🎮 Controllers with Views
+builder.Services.AddControllersWithViews();
 
-// Session (yêu cầu assignment)
+// 🔐 Session Configuration
 builder.Services.AddDistributedMemoryCache();
 builder.Services.AddSession(options =>
 {
-    options.IdleTimeout = TimeSpan.FromMinutes(30);
-    options.Cookie.HttpOnly = true;
-    options.Cookie.IsEssential = true;
+    options.IdleTimeout = TimeSpan.FromMinutes(30); // Session timeout 30 phút
+    options.Cookie.HttpOnly = true;                 // Bảo mật
+    options.Cookie.IsEssential = true;              // GDPR compliance
 });
 
-// Đăng ký các service (DI)
-builder.Services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>();
+// ⚙️ Dependency Injection - Services
+builder.Services.AddScoped<IProductService, ProductService>();
+builder.Services.AddScoped<ICartService, CartService>();
+builder.Services.AddScoped<IOrderService, OrderService>();
 builder.Services.AddScoped<IAuthService, AuthService>();
-// Add services to the container.
-builder.Services.AddControllersWithViews();
+builder.Services.AddScoped<IAdminService, AdminService>();
 
+// 📷 HttpContextAccessor (để dùng Session trong Services)
+builder.Services.AddHttpContextAccessor();
 
 var app = builder.Build();
 
-// Configure the HTTP request pipeline.
+// =============================================
+// 2. CONFIGURE THE HTTP REQUEST PIPELINE
+// =============================================
+
 if (!app.Environment.IsDevelopment())
 {
     app.UseExceptionHandler("/Home/Error");
-    // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
     app.UseHsts();
 }
 
@@ -42,9 +52,12 @@ app.UseStaticFiles();
 
 app.UseRouting();
 
+// ⚠️ QUAN TRỌNG: Session phải đứng trước Authorization
 app.UseSession();
+
 app.UseAuthorization();
 
+// 🛣️ Default Route
 app.MapControllerRoute(
     name: "default",
     pattern: "{controller=Home}/{action=Index}/{id?}");

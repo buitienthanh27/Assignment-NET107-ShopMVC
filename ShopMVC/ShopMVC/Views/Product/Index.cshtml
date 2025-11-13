@@ -1,0 +1,224 @@
+@model ProductListViewModel
+
+@{
+    ViewData["Title"] = "Sản phẩm - PhoneShop";
+}
+
+<!-- Breadcrumb -->
+<section class="breadcrumb-area" style="background: #f8f9fa; padding: 30px 0;">
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <div class="breadcrumb-content">
+                    <h2>Sản phẩm</h2>
+                    <nav aria-label="breadcrumb">
+                        <ol class="breadcrumb">
+                            <li class="breadcrumb-item"><a asp-controller="Home" asp-action="Index">Trang chủ</a></li>
+                            <li class="breadcrumb-item active">Sản phẩm</li>
+                        </ol>
+                    </nav>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Product List -->
+<section class="product-area pt-60 pb-60">
+    <div class="container">
+        <div class="row">
+            <!-- Sidebar -->
+            <div class="col-lg-3 col-md-4">
+                <div class="sidebar">
+                    <!-- Categories -->
+                    <div class="sidebar-widget mb-40">
+                        <h4 class="sidebar-title">Danh mục sản phẩm</h4>
+                        <ul class="category-list">
+                            <li>
+                                <a asp-controller="Product" asp-action="Index"
+                                   class="@(Model.SelectedCategoryId == null ? "active" : "")">
+                                    <i class="fa fa-mobile-alt"></i> Tất cả sản phẩm
+                                    <span class="count">(@Model.TotalProducts)</span>
+                                </a>
+                            </li>
+                            @foreach (var category in Model.Categories)
+                            {
+                                <li>
+                                    <a asp-controller="Product" asp-action="Index"
+                                       asp-route-categoryId="@category.CategoryId"
+                                       class="@(Model.SelectedCategoryId == category.CategoryId ? "active" : "")">
+                                        <i class="fa fa-tag"></i> @category.CategoryName
+                                    </a>
+                                </li>
+                            }
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Product Grid -->
+            <div class="col-lg-9 col-md-8">
+                <!-- Search & Filter -->
+                <div class="product-toolbar mb-30">
+                    <div class="row align-items-center">
+                        <div class="col-lg-6 col-md-6">
+                            <div class="product-search">
+                                <form asp-controller="Product" asp-action="Index" method="get" class="d-flex">
+                                    <input type="hidden" name="categoryId" value="@Model.SelectedCategoryId" />
+                                    <input type="text" name="search" value="@Model.SearchTerm"
+                                           class="form-control" placeholder="Tìm kiếm sản phẩm...">
+                                    <button type="submit" class="btn btn-primary ms-2">
+                                        <i class="fa fa-search"></i>
+                                    </button>
+                                </form>
+                            </div>
+                        </div>
+                        <div class="col-lg-6 col-md-6 text-end">
+                            <p class="product-count">
+                                Hiển thị <strong>@Model.Products.Count</strong> / <strong>@Model.TotalProducts</strong> sản phẩm
+                            </p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Products -->
+                @if (!Model.Products.Any())
+                {
+                    <div class="alert alert-info">
+                        <i class="fa fa-info-circle"></i> Không tìm thấy sản phẩm nào.
+                    </div>
+                }
+                else
+                {
+                    <div class="row">
+                        @foreach (var product in Model.Products)
+                        {
+                            <div class="col-lg-4 col-md-6 col-sm-6 mb-30">
+                                <div class="product-item h-100">
+                                    <!-- Product Badge -->
+                                    @if (product.Stock <= 0)
+                                    {
+                                        <div class="product-badge">
+                                            <span class="badge badge-danger">Hết hàng</span>
+                                        </div>
+                                    }
+                                    else if (product.Stock <= 10)
+                                    {
+                                        <div class="product-badge">
+                                            <span class="badge badge-warning">Còn @product.Stock</span>
+                                        </div>
+                                    }
+
+                                    <!-- Product Image -->
+                                    <div class="product-thumb">
+                                        <a asp-controller="Product" asp-action="Detail" asp-route-id="@product.ProductId">
+                                            <img src="@ShopMVC.Helpers.ImageHelper.GetProductImagePath(product.Image)"
+                                                 alt="@product.ProductName"
+                                                 style="width: 100%; height: 250px; object-fit: cover;">
+                                        </a>
+                                    </div>
+
+                                    <!-- Product Content -->
+                                    <div class="product-content p-3">
+                                        <div class="product-category text-muted mb-2">
+                                            <small>@product.Category?.CategoryName</small>
+                                        </div>
+
+                                        <h5 class="product-title mb-2">
+                                            <a asp-controller="Product" asp-action="Detail" asp-route-id="@product.ProductId">
+                                                @product.ProductName
+                                            </a>
+                                        </h5>
+
+                                        <div class="product-meta mb-3">
+                                            @if (!string.IsNullOrEmpty(product.Color))
+                                            {
+                                                <span class="me-2"><i class="fa fa-palette"></i> @product.Color</span>
+                                            }
+                                            @if (!string.IsNullOrEmpty(product.Size))
+                                            {
+                                                <span><i class="fa fa-mobile-alt"></i> @product.Size</span>
+                                            }
+                                        </div>
+
+                                        <div class="product-price mb-3">
+                                            <span class="price text-primary fw-bold h5">
+                                                @product.Price.ToString("N0") đ
+                                            </span>
+                                        </div>
+
+                                        <div class="product-actions">
+                                            <button class="btn btn-primary btn-sm w-100 add-to-cart-btn mb-2"
+                                                    data-product-id="@product.ProductId"
+                                                    @(product.Stock <= 0 ? "disabled" : "")>
+                                                <i class="fa fa-shopping-cart"></i>
+                                                @(product.Stock > 0 ? "Thêm vào giỏ" : "Hết hàng")
+                                            </button>
+                                            <a asp-controller="Product" asp-action="Detail" asp-route-id="@product.ProductId"
+                                               class="btn btn-outline-primary btn-sm w-100">
+                                                <i class="fa fa-eye"></i> Xem chi tiết
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        }
+                    </div>
+
+                    <!-- Pagination - FIXED: Dùng Model.Page thay vì Model.CurrentPage -->
+                    @if (Model.TotalPageCount > 1)
+                    {
+                        <div class="pagination-area text-center mt-40">
+                            <nav aria-label="Page navigation">
+                                <ul class="pagination justify-content-center">
+                                    @if (Model.HasPreviousPage)
+                                    {
+                                        <li class="page-item">
+                                            <a class="page-link"
+                                               asp-controller="Product" asp-action="Index"
+                                               asp-route-page="@(Model.Page - 1)"
+                                               asp-route-categoryId="@Model.SelectedCategoryId"
+                                               asp-route-search="@Model.SearchTerm">
+                                                <i class="fa fa-chevron-left"></i>
+                                            </a>
+                                        </li>
+                                    }
+
+                                    @for (int i = 1; i <= Model.TotalPageCount; i++)
+                                    {
+                                        <li class="page-item @(i == Model.Page ? "active" : "")">
+                                            <a class="page-link"
+                                               asp-controller="Product" asp-action="Index"
+                                               asp-route-page="@i"
+                                               asp-route-categoryId="@Model.SelectedCategoryId"
+                                               asp-route-search="@Model.SearchTerm">
+                                                @i
+                                            </a>
+                                        </li>
+                                    }
+
+                                    @if (Model.HasNextPage)
+                                    {
+                                        <li class="page-item">
+                                            <a class="page-link"
+                                               asp-controller="Product" asp-action="Index"
+                                               asp-route-page="@(Model.Page + 1)"
+                                               asp-route-categoryId="@Model.SelectedCategoryId"
+                                               asp-route-search="@Model.SearchTerm">
+                                                <i class="fa fa-chevron-right"></i>
+                                            </a>
+                                        </li>
+                                    }
+                                </ul>
+                            </nav>
+                        </div>
+                    }
+                }
+            </div>
+        </div>
+    </div>
+</section>
+
+@section Scripts {
+    <script src="~/js/cart.js"></script>
+}

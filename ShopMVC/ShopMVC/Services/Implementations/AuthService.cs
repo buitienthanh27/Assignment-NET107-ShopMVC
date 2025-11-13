@@ -2,7 +2,6 @@
 using ShopMVC.Data;
 using ShopMVC.Models;
 using ShopMVC.Services.Interfaces;
-using ShopMVC.ViewModels;
 using BCrypt.Net;
 
 namespace ShopMVC.Services.Implementations
@@ -10,47 +9,124 @@ namespace ShopMVC.Services.Implementations
     public class AuthService : IAuthService
     {
         private readonly ApplicationDbContext _context;
-        private readonly IHttpContextAccessor _httpContextAccessor;
 
-        public AuthService(ApplicationDbContext context, IHttpContextAccessor httpContextAccessor)
+        public AuthService(ApplicationDbContext context)
         {
             _context = context;
-            _httpContextAccessor = httpContextAccessor;
         }
 
-        public async Task<User> LoginAsync(LoginViewModel model)
+        public async Task<User?> LoginAsync(string username, string password)
         {
-            // 1. Tìm user bằng username
             var user = await _context.Users
-                .FirstOrDefaultAsync(u => u.Username == model.Username && u.IsActive == true);
+                .FirstOrDefaultAsync(u => u.Username == username && u.IsActive);
 
-            if (user == null)
+            if (user == null) return null;
+
+            // Verify password
+            if (!VerifyPassword(password, user.Password))
+                return null;
+
+            return user;
+        }
+
+        public async Task<bool> RegisterAsync(User user, string password)
+        {
+            try
             {
-                return null; // Không tìm thấy user
+                // Kiểm tra username đã tồn tại
+                if (await UsernameExistsAsync(user.Username))
+                    return false;
+
+                // Kiểm tra email đã tồn tại
+                if (!string.IsNullOrEmpty(user.Email) && await EmailExistsAsync(user.Email))
+                    return false;
+
+                // Hash password
+                user.Password = HashPassword(password);
+                user.CreatedDate = DateTime.Now;
+                user.IsActive = true;
+
+                _context.Users.Add(user);
+                await _context.SaveChangesAsync();
+                return true;
             }
-
-            // 2. Kiểm tra mật khẩu
-            // File database của bạn dùng mật khẩu "123456"
-            // Trong thực tế, bạn sẽ hash mật khẩu khi đăng ký.
-            // Tạm thời chúng ta sẽ hash "123456" để so sánh:
-            // string testHash = BCrypt.HashPassword("123456"); 
-
-            // Giả sử mật khẩu trong DB đã được hash bằng BCrypt
-            // Hoặc, vì là demo, chúng ta dùng mật khẩu "123456"
-            if (user.Password != model.Password) // TẠM THỜI: So sánh text
-            // if (!BCrypt.Verify(model.Password, user.Password)) // CHUẨN: Dùng BCrypt
+            catch
             {
-                return null; // Sai mật khẩu
+                return false;
             }
+        }
 
-            // 3. Đăng nhập thành công, lưu vào Session [cite: 4838]
-            var session = _httpContextAccessor.HttpContext.Session;
-            session.SetInt32("UserId", user.UserId);
-            session.SetString("Username", user.Username);
-            session.SetString("FullName", user.FullName);
-            session.SetString("Role", user.Role); // Rất quan trọng để phân quyền
+        public async Task<bool> UsernameExistsAsync(string username)
+        {
+            return await _context.Users
+                .AnyAsync(u => u.Username == username);
+        }
 
-            return user; // Trả về user để Controller biết
+        public async Task<bool> EmailExistsAsync(string email)
+        {
+            if (string.IsNullOrEmpty(email)) return false;
+
+            return await _context.Users
+                .AnyAsync(u => u.Email == email);
+        }
+
+        public async Task<User?> GetUserByIdAsync(int userId)
+        {
+            return await _context.Users
+                .FirstOrDefaultAsync(u => u.UserId == userId);
+        }
+
+        public async Task<bool> UpdateProfileAsync(User user)
+        {
+            try
+            {
+                var existingUser = await _context.Users.FindAsync(user.UserId);
+                if (existingUser == null) return false;
+
+                existingUser.FullName = user.FullName;
+                existingUser.Email = user.Email;
+                existingUser.Phone = user.Phone;
+                existingUser.Address = user.Address;
+
+                await _context.SaveChangesAsync();
+                return true;
+            }
+            catch
+            {
+                return false;
+            }
+        }
+
+        public async Task<bool> ChangePasswordAsync(int userId, string oldPassword, string newPassword)
+        {
+            try
+            {
+                var user = await _context.Users.FindAsync(userId);
+                if (user == null) return false;
+
+                // Verify old password
+                if (!VerifyPassword(oldPassword, user.Password))
+                    return false;
+
+                // Update password
+                user.Password = HashPassword(newPassword);
+                await _context.SaveChangesAsync();
+                return true;
+            }
+            catch
+            {
+                return false;
+            }
+        }
+
+        public string HashPassword(string password)
+        {
+            return BCrypt.Net.BCrypt.HashPassword(password);
+        }
+
+        public bool VerifyPassword(string password, string hashedPassword)
+        {
+            return BCrypt.Net.BCrypt.Verify(password, hashedPassword);
         }
     }
 }

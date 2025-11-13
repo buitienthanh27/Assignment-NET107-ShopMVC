@@ -9,6 +9,7 @@ C:\Users\maydi\OneDrive\Tài liệu\FPTPolytechnic\NET107 - Lập trình web c
 C:\Users\maydi\OneDrive\Tài liệu\FPTPolytechnic\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\Assignment-NET107-ShopMVC\ShopMVC\ShopMVC\bin\Debug\net8.0\ShopMVC.pdb
 C:\Users\maydi\OneDrive\Tài liệu\FPTPolytechnic\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\Assignment-NET107-ShopMVC\ShopMVC\ShopMVC\bin\Debug\net8.0\Azure.Core.dll
 C:\Users\maydi\OneDrive\Tài liệu\FPTPolytechnic\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\Assignment-NET107-ShopMVC\ShopMVC\ShopMVC\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\maydi\OneDrive\Tài liệu\FPTPolytechnic\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\Assignment-NET107-ShopMVC\ShopMVC\ShopMVC\bin\Debug\net8.0\BCrypt.Net-Next.dll
 C:\Users\maydi\OneDrive\Tài liệu\FPTPolytechnic\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\Assignment-NET107-ShopMVC\ShopMVC\ShopMVC\bin\Debug\net8.0\Humanizer.dll
 C:\Users\maydi\OneDrive\Tài liệu\FPTPolytechnic\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\Assignment-NET107-ShopMVC\ShopMVC\ShopMVC\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Users\maydi\OneDrive\Tài liệu\FPTPolytechnic\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\Assignment-NET107-ShopMVC\ShopMVC\ShopMVC\bin\Debug\net8.0\Microsoft.Build.Locator.dll
@@ -45,6 +46,7 @@ C:\Users\maydi\OneDrive\Tài liệu\FPTPolytechnic\NET107 - Lập trình web c
 C:\Users\maydi\OneDrive\Tài liệu\FPTPolytechnic\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\Assignment-NET107-ShopMVC\ShopMVC\ShopMVC\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
 C:\Users\maydi\OneDrive\Tài liệu\FPTPolytechnic\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\Assignment-NET107-ShopMVC\ShopMVC\ShopMVC\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
 C:\Users\maydi\OneDrive\Tài liệu\FPTPolytechnic\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\Assignment-NET107-ShopMVC\ShopMVC\ShopMVC\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\maydi\OneDrive\Tài liệu\FPTPolytechnic\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\Assignment-NET107-ShopMVC\ShopMVC\ShopMVC\bin\Debug\net8.0\SixLabors.ImageSharp.dll
 C:\Users\maydi\OneDrive\Tài liệu\FPTPolytechnic\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\Assignment-NET107-ShopMVC\ShopMVC\ShopMVC\bin\Debug\net8.0\System.ClientModel.dll
 C:\Users\maydi\OneDrive\Tài liệu\FPTPolytechnic\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\Assignment-NET107-ShopMVC\ShopMVC\ShopMVC\bin\Debug\net8.0\System.CodeDom.dll
 C:\Users\maydi\OneDrive\Tài liệu\FPTPolytechnic\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\Assignment-NET107-ShopMVC\ShopMVC\ShopMVC\bin\Debug\net8.0\System.Composition.AttributedModel.dll
@@ -151,6 +153,7 @@ C:\Users\maydi\OneDrive\Tài liệu\FPTPolytechnic\NET107 - Lập trình web c
 C:\Users\maydi\OneDrive\Tài liệu\FPTPolytechnic\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\Assignment-NET107-ShopMVC\ShopMVC\ShopMVC\obj\Debug\net8.0\ShopMVC.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\maydi\OneDrive\Tài liệu\FPTPolytechnic\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\Assignment-NET107-ShopMVC\ShopMVC\ShopMVC\obj\Debug\net8.0\ShopMVC.RazorAssemblyInfo.cache
 C:\Users\maydi\OneDrive\Tài liệu\FPTPolytechnic\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\Assignment-NET107-ShopMVC\ShopMVC\ShopMVC\obj\Debug\net8.0\ShopMVC.RazorAssemblyInfo.cs
+C:\Users\maydi\OneDrive\Tài liệu\FPTPolytechnic\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\Assignment-NET107-ShopMVC\ShopMVC\ShopMVC\obj\Debug\net8.0\ShopMVC.sourcelink.json
 C:\Users\maydi\OneDrive\Tài liệu\FPTPolytechnic\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\Assignment-NET107-ShopMVC\ShopMVC\ShopMVC\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\maydi\OneDrive\Tài liệu\FPTPolytechnic\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\Assignment-NET107-ShopMVC\ShopMVC\ShopMVC\obj\Debug\net8.0\scopedcss\bundle\ShopMVC.styles.css
 C:\Users\maydi\OneDrive\Tài liệu\FPTPolytechnic\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\Assignment-NET107-ShopMVC\ShopMVC\ShopMVC\obj\Debug\net8.0\scopedcss\projectbundle\ShopMVC.bundle.scp.css
@@ -170,4 +173,3 @@ C:\Users\maydi\OneDrive\Tài liệu\FPTPolytechnic\NET107 - Lập trình web c
 C:\Users\maydi\OneDrive\Tài liệu\FPTPolytechnic\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\Assignment-NET107-ShopMVC\ShopMVC\ShopMVC\obj\Debug\net8.0\ShopMVC.pdb
 C:\Users\maydi\OneDrive\Tài liệu\FPTPolytechnic\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\Assignment-NET107-ShopMVC\ShopMVC\ShopMVC\obj\Debug\net8.0\ShopMVC.genruntimeconfig.cache
 C:\Users\maydi\OneDrive\Tài liệu\FPTPolytechnic\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\Assignment-NET107-ShopMVC\ShopMVC\ShopMVC\obj\Debug\net8.0\ref\ShopMVC.dll
-C:\Users\maydi\OneDrive\Tài liệu\FPTPolytechnic\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\Assignment-NET107-ShopMVC\ShopMVC\ShopMVC\bin\Debug\net8.0\BCrypt.Net-Next.dll

@@ -1,0 +1,275 @@
+@model ShopMVC.ViewModels.CheckoutViewModel
+@{
+    ViewData["Title"] = "Thanh toán";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<style>
+    .checkout-header {
+        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        color: white;
+        padding: 2rem 0;
+        margin-bottom: 2rem;
+        border-radius: 8px;
+    }
+
+    .checkout-card {
+        border: none;
+        border-radius: 12px;
+        box-shadow: 0 2px 12px rgba(0,0,0,0.08);
+        margin-bottom: 1.5rem;
+    }
+
+        .checkout-card .card-header {
+            background: #f8f9fa;
+            border-bottom: 2px solid #e9ecef;
+            padding: 1rem 1.5rem;
+            border-radius: 12px 12px 0 0 !important;
+        }
+
+        .checkout-card .card-body {
+            padding: 1.5rem;
+        }
+
+    .product-item {
+        display: flex;
+        padding: 1rem;
+        border-bottom: 1px solid #e9ecef;
+        align-items: center;
+    }
+
+        .product-item:last-child {
+            border-bottom: none;
+        }
+
+    .product-image {
+        width: 80px;
+        height: 80px;
+        object-fit: cover;
+        border-radius: 8px;
+        margin-right: 1rem;
+    }
+
+    .product-info {
+        flex: 1;
+    }
+
+    .product-name {
+        font-weight: 600;
+        margin-bottom: 0.25rem;
+    }
+
+    .product-price {
+        color: #28a745;
+        font-weight: 600;
+    }
+
+    .total-section {
+        background: #f8f9fa;
+        padding: 1.5rem;
+        border-radius: 8px;
+        margin-top: 1rem;
+    }
+
+    .total-row {
+        display: flex;
+        justify-content: space-between;
+        padding: 0.5rem 0;
+    }
+
+        .total-row.final {
+            border-top: 2px solid #dee2e6;
+            margin-top: 1rem;
+            padding-top: 1rem;
+            font-size: 1.25rem;
+            font-weight: 700;
+            color: #28a745;
+        }
+
+    .form-control-custom {
+        border-radius: 8px;
+        border: 2px solid #e9ecef;
+        padding: 0.75rem 1rem;
+        transition: all 0.3s;
+    }
+
+        .form-control-custom:focus {
+            border-color: #667eea;
+            box-shadow: 0 0 0 0.2rem rgba(102, 126, 234, 0.15);
+        }
+
+    .btn-checkout {
+        border-radius: 8px;
+        padding: 1rem 2rem;
+        font-weight: 600;
+        font-size: 1.1rem;
+    }
+</style>
+
+<div class="container my-5">
+    <div class="checkout-header text-center">
+        <div class="container">
+            <h2 class="mb-1"><i class="fas fa-shopping-bag"></i> Thanh toán đơn hàng</h2>
+            <p class="mb-0 opacity-75">Vui lòng kiểm tra thông tin trước khi đặt hàng</p>
+        </div>
+    </div>
+
+    @if (TempData["Error"] != null)
+    {
+        <div class="alert alert-danger alert-dismissible fade show">
+            <strong><i class="fas fa-exclamation-circle"></i> Lỗi!</strong> @TempData["Error"]
+            <button type="button" class="close" data-dismiss="alert">&times;</button>
+        </div>
+    }
+
+    <form asp-action="ProcessCheckout" method="post">
+        @Html.AntiForgeryToken()
+
+        <div class="row">
+            <div class="col-lg-7">
+                <!-- Shipping Info -->
+                <div class="card checkout-card">
+                    <div class="card-header">
+                        <h5 class="mb-0"><i class="fas fa-map-marker-alt"></i> Thông tin giao hàng</h5>
+                    </div>
+                    <div class="card-body">
+                        <div class="form-group">
+                            <label class="font-weight-bold">Họ và tên <span class="text-danger">*</span></label>
+                            <input asp-for="FullName" class="form-control form-control-custom"
+                                   placeholder="Nhập họ tên người nhận" required readonly>
+                            <small class="text-muted">Thông tin từ tài khoản của bạn</small>
+                        </div>
+
+                        <div class="row">
+                            <div class="col-md-6">
+                                <div class="form-group">
+                                    <label class="font-weight-bold">Email <span class="text-danger">*</span></label>
+                                    <input asp-for="Email" type="email" class="form-control form-control-custom"
+                                           placeholder="example@gmail.com" required readonly>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="form-group">
+                                    <label class="font-weight-bold">Số điện thoại <span class="text-danger">*</span></label>
+                                    <input asp-for="Phone" type="tel" class="form-control form-control-custom"
+                                           placeholder="0901234567" required readonly>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="form-group">
+                            <label asp-for="ShippingAddress" class="font-weight-bold"></label>
+                            <textarea asp-for="ShippingAddress" class="form-control form-control-custom" rows="3"
+                                      placeholder="Số nhà, tên đường, phường/xã, quận/huyện, tỉnh/thành phố" required></textarea>
+                            <span asp-validation-for="ShippingAddress" class="text-danger"></span>
+                        </div>
+
+                        <div class="form-group">
+                            <label asp-for="Notes" class="font-weight-bold"></label>
+                            <textarea asp-for="Notes" class="form-control form-control-custom" rows="2"
+                                      placeholder="Ghi chú về đơn hàng, ví dụ: thời gian hay chỉ dẫn địa điểm giao hàng chi tiết hơn"></textarea>
+                            <span asp-validation-for="Notes" class="text-danger"></span>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Payment Method -->
+                <div class="card checkout-card">
+                    <div class="card-header">
+                        <h5 class="mb-0"><i class="fas fa-credit-card"></i> Phương thức thanh toán</h5>
+                    </div>
+                    <div class="card-body">
+                        <div class="custom-control custom-radio mb-3">
+                            <input type="radio" id="cod" asp-for="PaymentMethod" value="COD" class="custom-control-input" checked>
+                            <label class="custom-control-label" for="cod">
+                                <strong>Thanh toán khi nhận hàng (COD)</strong>
+                                <p class="text-muted mb-0 ml-4">Thanh toán bằng tiền mặt khi nhận hàng</p>
+                            </label>
+                        </div>
+                        <div class="custom-control custom-radio mb-3">
+                            <input type="radio" id="banking" asp-for="PaymentMethod" value="Banking" class="custom-control-input">
+                            <label class="custom-control-label" for="banking">
+                                <strong>Chuyển khoản ngân hàng</strong>
+                                <p class="text-muted mb-0 ml-4">Chuyển khoản trước khi nhận hàng</p>
+                            </label>
+                        </div>
+                        <div class="custom-control custom-radio">
+                            <input type="radio" id="momo" asp-for="PaymentMethod" value="MoMo" class="custom-control-input">
+                            <label class="custom-control-label" for="momo">
+                                <strong>Ví MoMo</strong>
+                                <p class="text-muted mb-0 ml-4">Thanh toán qua ví điện tử MoMo</p>
+                            </label>
+                        </div>
+                        <span asp-validation-for="PaymentMethod" class="text-danger"></span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-5">
+                <!-- Order Summary -->
+                <div class="card checkout-card">
+                    <div class="card-header">
+                        <h5 class="mb-0"><i class="fas fa-receipt"></i> Đơn hàng của bạn</h5>
+                    </div>
+                    <div class="card-body">
+                        @foreach (var item in Model.CartItems)
+                        {
+                            <div class="product-item">
+                                @if (!string.IsNullOrEmpty(item.Image))
+                                {
+                                    <img src="~/images/products/@item.Image" alt="@item.ProductName" class="product-image">
+                                }
+                                else
+                                {
+                                    <div class="product-image bg-secondary"></div>
+                                }
+                                <div class="product-info">
+                                    <div class="product-name">@item.ProductName</div>
+                                    <div class="text-muted small">Số lượng: @item.Quantity</div>
+                                    <div class="product-price">@item.UnitPrice.ToString("N0") đ</div>
+                                </div>
+                                <div class="text-right">
+                                    <strong class="text-success">@item.LineTotal?.ToString("N0") đ</strong>
+                                </div>
+                            </div>
+                        }
+
+                        <div class="total-section">
+                            <div class="total-row">
+                                <span>Tạm tính:</span>
+                                <strong>@Model.SubTotal.ToString("N0") đ</strong>
+                            </div>
+                            <div class="total-row">
+                                <span>Phí vận chuyển:</span>
+                                <strong>@Model.ShippingFee.ToString("N0") đ</strong>
+                            </div>
+                            <div class="total-row final">
+                                <span>Tổng cộng:</span>
+                                <span>@Model.Total.ToString("N0") đ</span>
+                            </div>
+                        </div>
+
+                        <button type="submit" class="btn btn-success btn-checkout btn-block mt-3">
+                            <i class="fas fa-check-circle"></i> Đặt hàng
+                        </button>
+
+                        <a asp-action="Index" class="btn btn-outline-secondary btn-checkout btn-block mt-2">
+                            <i class="fas fa-arrow-left"></i> Quay lại giỏ hàng
+                        </a>
+                    </div>
+                </div>
+
+                <!-- Security Notice -->
+                <div class="alert alert-info mt-3">
+                    <i class="fas fa-shield-alt"></i> Thông tin của bạn được bảo mật và mã hóa
+                </div>
+            </div>
+        </div>
+    </form>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

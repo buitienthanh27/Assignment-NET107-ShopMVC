@@ -1,0 +1,204 @@
+﻿@model ShopMVC.Models.User
+@{
+    ViewData["Title"] = "Thông tin cá nhân";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<style>
+    .profile-header {
+        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        color: white;
+        padding: 2rem 0;
+        margin-bottom: 2rem;
+        border-radius: 8px;
+    }
+
+    .profile-card {
+        border: none;
+        border-radius: 12px;
+        box-shadow: 0 2px 12px rgba(0,0,0,0.08);
+        margin-bottom: 1.5rem;
+    }
+
+        .profile-card .card-header {
+            background: #f8f9fa;
+            border-bottom: 2px solid #e9ecef;
+            padding: 1rem 1.5rem;
+            border-radius: 12px 12px 0 0 !important;
+        }
+
+        .profile-card .card-body {
+            padding: 2rem 1.5rem;
+        }
+
+    .form-label-custom {
+        font-weight: 600;
+        color: #495057;
+        margin-bottom: 0.5rem;
+    }
+
+    .form-control-custom {
+        border-radius: 8px;
+        border: 2px solid #e9ecef;
+        padding: 0.75rem 1rem;
+        transition: all 0.3s;
+    }
+
+        .form-control-custom:focus {
+            border-color: #667eea;
+            box-shadow: 0 0 0 0.2rem rgba(102, 126, 234, 0.15);
+        }
+
+    .btn-custom {
+        border-radius: 8px;
+        padding: 15px 20px; 
+        font-weight: 600;
+        font-size: 50px; 
+        transition: all 0.3s;
+    }
+
+    .info-item {
+        padding: 1rem;
+        background: #f8f9fa;
+        border-radius: 8px;
+        margin-bottom: 1rem;
+    }
+
+        .info-item strong {
+            color: #495057;
+            display: inline-block;
+            min-width: 150px;
+        }
+
+    .status-badge {
+        padding: 0.5rem 1rem;
+        border-radius: 20px;
+        font-weight: 600;
+    }
+</style>
+
+<div class="container my-5">
+    <div class="profile-header text-center">
+        <div class="container">
+            <div style="width: 80px; height: 80px; background: rgba(255,255,255,0.3); border-radius: 50%; display: flex; align-items: center; justify-content: center; margin: 0 auto 1rem; font-size: 2.5rem; font-weight: 700;">
+                @Model.Username.Substring(0, 1).ToUpper()
+            </div>
+            <h2 class="mb-1">@Model.FullName</h2>
+            <p class="mb-0 opacity-75">@@@Model.Username</p>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-lg-8 mx-auto">
+            @if (TempData["Success"] != null)
+            {
+                <div class="alert alert-success alert-dismissible fade show" style="border-radius: 8px;">
+                    <strong><i class="fas fa-check-circle"></i> Thành công!</strong> @TempData["Success"]
+                    <button type="button" class="close" data-dismiss="alert">&times;</button>
+                </div>
+            }
+            @if (TempData["Error"] != null)
+            {
+                <div class="alert alert-danger alert-dismissible fade show" style="border-radius: 8px;">
+                    <strong><i class="fas fa-exclamation-circle"></i> Lỗi!</strong> @TempData["Error"]
+                    <button type="button" class="close" data-dismiss="alert">&times;</button>
+                </div>
+            }
+
+            <!-- Profile Form -->
+            <div class="card profile-card">
+                <div class="card-header">
+                    <h5 class="mb-0"><i class="fas fa-user-edit"></i> Chỉnh sửa thông tin</h5>
+                </div>
+                <div class="card-body">
+                    <form asp-action="UpdateProfile" method="post">
+                        @Html.AntiForgeryToken()
+                        <input type="hidden" asp-for="UserId" />
+                        <input type="hidden" asp-for="Username" />
+                        <input type="hidden" asp-for="Password" />
+                        <input type="hidden" asp-for="Role" />
+                        <input type="hidden" asp-for="IsActive" />
+                        <input type="hidden" asp-for="CreatedDate" />
+
+                        <div class="row">
+                            <div class="col-md-6">
+                                <div class="form-group">
+                                    <label class="form-label-custom">Tên đăng nhập</label>
+                                    <input type="text" class="form-control form-control-custom" value="@Model.Username" readonly style="background: #f8f9fa; cursor: not-allowed;">
+                                    <small class="text-muted"><i class="fas fa-info-circle"></i> Không thể thay đổi tên đăng nhập</small>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="form-group">
+                                    <label class="form-label-custom">Vai trò</label>
+                                    <input type="text" class="form-control form-control-custom" value="@Model.Role" readonly style="background: #f8f9fa; cursor: not-allowed;">
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="form-group">
+                            <label class="form-label-custom">Họ và tên <span class="text-danger">*</span></label>
+                            <input asp-for="FullName" class="form-control form-control-custom" placeholder="Nhập họ tên đầy đủ" required>
+                            <span asp-validation-for="FullName" class="text-danger"></span>
+                        </div>
+
+                        <div class="form-group">
+                            <label class="form-label-custom">Email <span class="text-danger">*</span></label>
+                            <input asp-for="Email" type="email" class="form-control form-control-custom" placeholder="example@gmail.com" required>
+                            <span asp-validation-for="Email" class="text-danger"></span>
+                        </div>
+
+                        <div class="form-group">
+                            <label class="form-label-custom">Số điện thoại</label>
+                            <input asp-for="Phone" type="tel" class="form-control form-control-custom" placeholder="0901234567">
+                            <span asp-validation-for="Phone" class="text-danger"></span>
+                        </div>
+
+                        <div class="row mt-4">
+                            <div class="col-md-6 mb-3">
+                                <button type="submit" class="btn btn-primary btn-custom btn-block" style="padding: 1rem 2rem; font-size: 1.1rem;">
+                                    <i class="fas fa-save"></i> Cập nhật thông tin
+                                </button>
+                            </div>
+                            <div class="col-md-6 mb-3">
+                                <a asp-action="ChangePassword" class="btn btn-warning btn-custom btn-block" style="padding: 1rem 2rem; font-size: 1.1rem;">
+                                    <i class="fas fa-key"></i> Đổi mật khẩu
+                                </a>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+
+            <!-- Account Info -->
+            <div class="card profile-card">
+                <div class="card-header">
+                    <h5 class="mb-0"><i class="fas fa-info-circle"></i> Thông tin tài khoản</h5>
+                </div>
+                <div class="card-body">
+                    <div class="info-item">
+                        <strong>Mã người dùng:</strong>
+                        <span class="text-primary">#@Model.UserId</span>
+                    </div>
+                    <div class="info-item">
+                        <strong>Ngày tạo tài khoản:</strong>
+                        <span>@Model.CreatedDate.ToString("dd/MM/yyyy HH:mm")</span>
+                    </div>
+                    <div class="info-item">
+                        <strong>Trạng thái tài khoản:</strong>
+                        <span class="status-badge @(Model.IsActive ? "bg-success text-white" : "bg-secondary text-white")">
+                            <i class="fas fa-@(Model.IsActive ? "check-circle" : "times-circle")"></i>
+                            @(Model.IsActive ? "Hoạt động" : "Vô hiệu hóa")
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

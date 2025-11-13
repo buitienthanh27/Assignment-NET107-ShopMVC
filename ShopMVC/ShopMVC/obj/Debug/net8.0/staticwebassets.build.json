@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "BrCYI9anfYCKC8eB+HA9V3nLoCuUTgMu6k/ixrMEV8E=",
+  "Hash": "nDXygKR+VuCoPV48Ynu8oVhZM0M0TToCK+aF6rywQYE=",
   "Source": "ShopMVC",
   "BasePath": "_content/ShopMVC",
   "Mode": "Default",
@@ -99,6 +99,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\css\\custom-fix.css",
+      "SourceId": "ShopMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\",
+      "BasePath": "_content/ShopMVC",
+      "RelativePath": "assets/css/custom-fix#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "0l2fnxm0qa",
+      "Integrity": "LErrkhV00ZircD2fy5x+plHeHlogHgoSzGHBE7WV+Zg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\css\\custom-fix.css"
     },
     {
       "Identity": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\css\\fontawesome-pro.css",
@@ -7745,6 +7766,27 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\bootstrap.bundle.min.js"
     },
     {
+      "Identity": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\js\\cart.js",
+      "SourceId": "ShopMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\",
+      "BasePath": "_content/ShopMVC",
+      "RelativePath": "assets/js/cart#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "gysuaurdp4",
+      "Integrity": "6J+hFQ7qrj6Y8tR/Iu9Z8N02igV0XYsYiL0W4wn0/hg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\js\\cart.js"
+    },
+    {
       "Identity": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\js\\counterup.js",
       "SourceId": "ShopMVC",
       "SourceType": "Discovered",
@@ -7843,8 +7885,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "y9ened6hb7",
-      "Integrity": "BmolLcUxc70lAo/qZLOggwj7DwV6FFfW95xk8N026wo=",
+      "Fingerprint": "b6fwe365xg",
+      "Integrity": "LZGPNbdrmnf091xVKWIbAe4jlhX/klVvFVS1s00Erxk=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\js\\main.js"
@@ -9341,12 +9383,12 @@
       "OriginalItemSpec": "wwwroot\\assets\\scss\\utils\\index.scss"
     },
     {
-      "Identity": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\css\\site.css",
       "SourceId": "ShopMVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\",
       "BasePath": "_content/ShopMVC",
-      "RelativePath": "favicon#[.{fingerprint}]?.ico",
+      "RelativePath": "css/site#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -9355,11 +9397,473 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "61n19gt1b8",
-      "Integrity": "Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=",
+      "Fingerprint": "g9at9lpkq9",
+      "Integrity": "zHkB5vcAvpzJbuAUMYg1UEaLjFgYOCaeNmZCMyay/Gg=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\favicon.ico"
+      "OriginalItemSpec": "wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\images\\products\\2105ca4a-845e-447b-b4f1-fead8d100d02.png",
+      "SourceId": "ShopMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\",
+      "BasePath": "_content/ShopMVC",
+      "RelativePath": "images/products/2105ca4a-845e-447b-b4f1-fead8d100d02#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zdiq1ovlqv",
+      "Integrity": "ae9vI9Y54mmV69YeWrkgcbnnagIpFvHgeJNz+F5qPYw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\2105ca4a-845e-447b-b4f1-fead8d100d02.png"
+    },
+    {
+      "Identity": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\images\\products\\2b7666a0-52fc-46bc-88a2-600d26df8fdb.png",
+      "SourceId": "ShopMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\",
+      "BasePath": "_content/ShopMVC",
+      "RelativePath": "images/products/2b7666a0-52fc-46bc-88a2-600d26df8fdb#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "18kndvi6bl",
+      "Integrity": "IW/L8MAbt0k9e4F9lhecuqR4TjaSgjxIuKlozJJAELE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\2b7666a0-52fc-46bc-88a2-600d26df8fdb.png"
+    },
+    {
+      "Identity": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\images\\products\\304b9c46-70fd-4e2b-ad87-c280e1b1587e.png",
+      "SourceId": "ShopMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\",
+      "BasePath": "_content/ShopMVC",
+      "RelativePath": "images/products/304b9c46-70fd-4e2b-ad87-c280e1b1587e#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6yr8odipca",
+      "Integrity": "fgsvy4SBT2NfZ1eKJw5VMaCrzvOgV7oT5rhcjptGt3Y=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\304b9c46-70fd-4e2b-ad87-c280e1b1587e.png"
+    },
+    {
+      "Identity": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\images\\products\\5e79e36d-1f36-41b2-b319-edd00cd2f2dd.png",
+      "SourceId": "ShopMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\",
+      "BasePath": "_content/ShopMVC",
+      "RelativePath": "images/products/5e79e36d-1f36-41b2-b319-edd00cd2f2dd#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "be3gs8dmcp",
+      "Integrity": "M4H7SoXJ8jppdK74RE56nsWE5xO19xBRIdOL2s1xbM8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\5e79e36d-1f36-41b2-b319-edd00cd2f2dd.png"
+    },
+    {
+      "Identity": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\images\\products\\6d6a3fe7-48c6-4b03-bf4c-f221067b0b35.png",
+      "SourceId": "ShopMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\",
+      "BasePath": "_content/ShopMVC",
+      "RelativePath": "images/products/6d6a3fe7-48c6-4b03-bf4c-f221067b0b35#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "hqt7ztu40f",
+      "Integrity": "SQn0dN6aR7xrC14eZSXGOZpVoL4dXqPrDpRKFpmK5nw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\6d6a3fe7-48c6-4b03-bf4c-f221067b0b35.png"
+    },
+    {
+      "Identity": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\images\\products\\galaxya34.jpg",
+      "SourceId": "ShopMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\",
+      "BasePath": "_content/ShopMVC",
+      "RelativePath": "images/products/galaxya34#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "a4vom2e8bq",
+      "Integrity": "dk7dNjbfypDE3/LYdXn/pF0n9wHjiop44jgZ3qY8FL0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\galaxya34.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\images\\products\\galaxya54.jpg",
+      "SourceId": "ShopMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\",
+      "BasePath": "_content/ShopMVC",
+      "RelativePath": "images/products/galaxya54#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ub7iwy47mi",
+      "Integrity": "ZiKHuwhoZQqgtYqIcY/XPTVypUQ6s9+N1ycFJXyKqYs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\galaxya54.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\images\\products\\galaxyflip5.jpg",
+      "SourceId": "ShopMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\",
+      "BasePath": "_content/ShopMVC",
+      "RelativePath": "images/products/galaxyflip5#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "04el5jmt5u",
+      "Integrity": "UNSA+iRa6nfZsqHBrXZ+cwKrQlXHSi8qXvUTTiaRMzo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\galaxyflip5.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\images\\products\\galaxyfold5.jpg",
+      "SourceId": "ShopMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\",
+      "BasePath": "_content/ShopMVC",
+      "RelativePath": "images/products/galaxyfold5#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "r8wviqrufr",
+      "Integrity": "+96FyKL9879wkfdOGeBkzrwoiNSZt3SFdib2pTa6F/k=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\galaxyfold5.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\images\\products\\galaxym34.jpg",
+      "SourceId": "ShopMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\",
+      "BasePath": "_content/ShopMVC",
+      "RelativePath": "images/products/galaxym34#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "mqdf7iy615",
+      "Integrity": "sn3nGmusebP6wHKCUKHszzMNpukGLsUO9kC2mWpRhaY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\galaxym34.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\images\\products\\galaxys24.jpg",
+      "SourceId": "ShopMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\",
+      "BasePath": "_content/ShopMVC",
+      "RelativePath": "images/products/galaxys24#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "u6wtpxac1i",
+      "Integrity": "yjpgWuE8+YetFU8SaUFcT3g2/JBjAtBtoogIXLllJw8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\galaxys24.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\images\\products\\galaxys24plus.jpg",
+      "SourceId": "ShopMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\",
+      "BasePath": "_content/ShopMVC",
+      "RelativePath": "images/products/galaxys24plus#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "a0mbdvfhnl",
+      "Integrity": "Kn1+94aqM2x+u9k9eywpxZqzEUfQIeuPGleyifklKQs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\galaxys24plus.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\images\\products\\galaxys24ultra.jpg",
+      "SourceId": "ShopMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\",
+      "BasePath": "_content/ShopMVC",
+      "RelativePath": "images/products/galaxys24ultra#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6zy3l01ouu",
+      "Integrity": "0hi4Saq8440loWSN3Fq3FKMasDPJgcA8+wfhkhplaNE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\galaxys24ultra.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\images\\products\\iphone13.jpg",
+      "SourceId": "ShopMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\",
+      "BasePath": "_content/ShopMVC",
+      "RelativePath": "images/products/iphone13#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6bs6y1rs6p",
+      "Integrity": "0opGeWcQF10kmRTOHFhJ61GSUeo2UmTvvx3QqlfC+YM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\iphone13.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\images\\products\\iphone14.jpg.jpg",
+      "SourceId": "ShopMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\",
+      "BasePath": "_content/ShopMVC",
+      "RelativePath": "images/products/iphone14.jpg#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zjp8cla8xn",
+      "Integrity": "X9N+0aelr5lU053kaTtM1JrluGWp8BXyYzLwSrZRLkY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\iphone14.jpg.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\images\\products\\iphone14pro.jpg",
+      "SourceId": "ShopMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\",
+      "BasePath": "_content/ShopMVC",
+      "RelativePath": "images/products/iphone14pro#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "icu6ym7y3i",
+      "Integrity": "3rZwUjH/eOnksH7JzcbHYS+8yHxQ0rWqvl06K4EFfGQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\iphone14pro.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\images\\products\\iphone14promax.jpg",
+      "SourceId": "ShopMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\",
+      "BasePath": "_content/ShopMVC",
+      "RelativePath": "images/products/iphone14promax#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "b2ikubgv9o",
+      "Integrity": "jb1XjAkw8d6GTZidARmJKqV3q3UIn3+dX/T0P84IWK8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\iphone14promax.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\images\\products\\iphone15.jpg",
+      "SourceId": "ShopMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\",
+      "BasePath": "_content/ShopMVC",
+      "RelativePath": "images/products/iphone15#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "e7o84wn66v",
+      "Integrity": "dt8MTJnSb/PLPP8O8z4riGJHmndHwTPlCBasuRvlA08=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\iphone15.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\images\\products\\iphone15plus.jpg",
+      "SourceId": "ShopMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\",
+      "BasePath": "_content/ShopMVC",
+      "RelativePath": "images/products/iphone15plus#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ni7nrzooyq",
+      "Integrity": "MZP9vr4yLrTx8Wa1+jqiJuwfl3I/eF4TfUx+sLyTQJA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\iphone15plus.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\images\\products\\iphone15pro.jpg",
+      "SourceId": "ShopMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\",
+      "BasePath": "_content/ShopMVC",
+      "RelativePath": "images/products/iphone15pro#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "83wovttysd",
+      "Integrity": "jOTFamhPbdrMkxUl0ibepF+M12xBX9VxX/zzG3QAYME=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\iphone15pro.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\js\\cart.js",
+      "SourceId": "ShopMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\",
+      "BasePath": "_content/ShopMVC",
+      "RelativePath": "js/cart#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "v2f6hrjatv",
+      "Integrity": "1z5ddPOwt00VEtkGLb0iXCMrPs4GIrRAxnI82Xipp5o=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\cart.js"
+    },
+    {
+      "Identity": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\js\\site.js",
+      "SourceId": "ShopMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\",
+      "BasePath": "_content/ShopMVC",
+      "RelativePath": "js/site#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "yjb062rgwq",
+      "Integrity": "fviRMorsgTgNlSAu7ZkPZyqQc/WKyVSKyZkgTf68q3M=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
       "Identity": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
@@ -10721,6 +11225,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-ZkrFA+XZDTBnceLQFih/cAbqXzbAIQzWGg/Cs/r3r2M="
+        }
+      ]
+    },
+    {
+      "Route": "assets/css/custom-fix.0l2fnxm0qa.css",
+      "AssetFile": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\css\\custom-fix.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "483"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LErrkhV00ZircD2fy5x+plHeHlogHgoSzGHBE7WV+Zg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Nov 2025 06:08:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0l2fnxm0qa"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/css/custom-fix.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LErrkhV00ZircD2fy5x+plHeHlogHgoSzGHBE7WV+Zg="
+        }
+      ]
+    },
+    {
+      "Route": "assets/css/custom-fix.css",
+      "AssetFile": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\css\\custom-fix.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "483"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LErrkhV00ZircD2fy5x+plHeHlogHgoSzGHBE7WV+Zg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Nov 2025 06:08:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LErrkhV00ZircD2fy5x+plHeHlogHgoSzGHBE7WV+Zg="
         }
       ]
     },
@@ -40573,6 +41159,88 @@
       ]
     },
     {
+      "Route": "assets/js/cart.gysuaurdp4.js",
+      "AssetFile": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\js\\cart.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7363"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6J+hFQ7qrj6Y8tR/Iu9Z8N02igV0XYsYiL0W4wn0/hg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Nov 2025 09:34:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gysuaurdp4"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/js/cart.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6J+hFQ7qrj6Y8tR/Iu9Z8N02igV0XYsYiL0W4wn0/hg="
+        }
+      ]
+    },
+    {
+      "Route": "assets/js/cart.js",
+      "AssetFile": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\js\\cart.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7363"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6J+hFQ7qrj6Y8tR/Iu9Z8N02igV0XYsYiL0W4wn0/hg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Nov 2025 09:34:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6J+hFQ7qrj6Y8tR/Iu9Z8N02igV0XYsYiL0W4wn0/hg="
+        }
+      ]
+    },
+    {
       "Route": "assets/js/counterup.js",
       "AssetFile": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\js\\counterup.js",
       "Selectors": [],
@@ -40901,6 +41569,51 @@
       ]
     },
     {
+      "Route": "assets/js/main.b6fwe365xg.js",
+      "AssetFile": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\js\\main.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23058"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LZGPNbdrmnf091xVKWIbAe4jlhX/klVvFVS1s00Erxk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Nov 2025 01:56:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "b6fwe365xg"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/js/main.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LZGPNbdrmnf091xVKWIbAe4jlhX/klVvFVS1s00Erxk="
+        }
+      ]
+    },
+    {
       "Route": "assets/js/main.js",
       "AssetFile": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\js\\main.js",
       "Selectors": [],
@@ -40911,7 +41624,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "23054"
+          "Value": "23058"
         },
         {
           "Name": "Content-Type",
@@ -40919,11 +41632,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"BmolLcUxc70lAo/qZLOggwj7DwV6FFfW95xk8N026wo=\""
+          "Value": "\"LZGPNbdrmnf091xVKWIbAe4jlhX/klVvFVS1s00Erxk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 05 Nov 2025 04:14:34 GMT"
+          "Value": "Mon, 10 Nov 2025 01:56:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -40933,52 +41646,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-BmolLcUxc70lAo/qZLOggwj7DwV6FFfW95xk8N026wo="
-        }
-      ]
-    },
-    {
-      "Route": "assets/js/main.y9ened6hb7.js",
-      "AssetFile": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\assets\\js\\main.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "23054"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"BmolLcUxc70lAo/qZLOggwj7DwV6FFfW95xk8N026wo=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 05 Nov 2025 04:14:34 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "y9ened6hb7"
-        },
-        {
-          "Name": "label",
-          "Value": "assets/js/main.js"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-BmolLcUxc70lAo/qZLOggwj7DwV6FFfW95xk8N026wo="
+          "Value": "sha256-LZGPNbdrmnf091xVKWIbAe4jlhX/klVvFVS1s00Erxk="
         }
       ]
     },
@@ -46805,8 +47473,8 @@
       ]
     },
     {
-      "Route": "favicon.61n19gt1b8.ico",
-      "AssetFile": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\favicon.ico",
+      "Route": "css/site.css",
+      "AssetFile": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -46815,19 +47483,56 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5430"
+          "Value": "7773"
         },
         {
           "Name": "Content-Type",
-          "Value": "image/x-icon"
+          "Value": "text/css"
         },
         {
           "Name": "ETag",
-          "Value": "\"Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=\""
+          "Value": "\"zHkB5vcAvpzJbuAUMYg1UEaLjFgYOCaeNmZCMyay/Gg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 05 Nov 2025 00:42:30 GMT"
+          "Value": "Wed, 12 Nov 2025 04:16:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-zHkB5vcAvpzJbuAUMYg1UEaLjFgYOCaeNmZCMyay/Gg="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.g9at9lpkq9.css",
+      "AssetFile": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7773"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zHkB5vcAvpzJbuAUMYg1UEaLjFgYOCaeNmZCMyay/Gg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Nov 2025 04:16:06 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -46837,21 +47542,21 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "61n19gt1b8"
+          "Value": "g9at9lpkq9"
         },
         {
           "Name": "label",
-          "Value": "favicon.ico"
+          "Value": "css/site.css"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM="
+          "Value": "sha256-zHkB5vcAvpzJbuAUMYg1UEaLjFgYOCaeNmZCMyay/Gg="
         }
       ]
     },
     {
-      "Route": "favicon.ico",
-      "AssetFile": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\favicon.ico",
+      "Route": "images/products/2105ca4a-845e-447b-b4f1-fead8d100d02.png",
+      "AssetFile": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\images\\products\\2105ca4a-845e-447b-b4f1-fead8d100d02.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -46860,19 +47565,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5430"
+          "Value": "195507"
         },
         {
           "Name": "Content-Type",
-          "Value": "image/x-icon"
+          "Value": "image/png"
         },
         {
           "Name": "ETag",
-          "Value": "\"Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=\""
+          "Value": "\"ae9vI9Y54mmV69YeWrkgcbnnagIpFvHgeJNz+F5qPYw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 05 Nov 2025 00:42:30 GMT"
+          "Value": "Wed, 12 Nov 2025 03:22:27 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -46882,7 +47587,1774 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM="
+          "Value": "sha256-ae9vI9Y54mmV69YeWrkgcbnnagIpFvHgeJNz+F5qPYw="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/2105ca4a-845e-447b-b4f1-fead8d100d02.zdiq1ovlqv.png",
+      "AssetFile": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\images\\products\\2105ca4a-845e-447b-b4f1-fead8d100d02.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "195507"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ae9vI9Y54mmV69YeWrkgcbnnagIpFvHgeJNz+F5qPYw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Nov 2025 03:22:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zdiq1ovlqv"
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/2105ca4a-845e-447b-b4f1-fead8d100d02.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ae9vI9Y54mmV69YeWrkgcbnnagIpFvHgeJNz+F5qPYw="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/2b7666a0-52fc-46bc-88a2-600d26df8fdb.18kndvi6bl.png",
+      "AssetFile": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\images\\products\\2b7666a0-52fc-46bc-88a2-600d26df8fdb.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "129720"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IW/L8MAbt0k9e4F9lhecuqR4TjaSgjxIuKlozJJAELE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Nov 2025 03:10:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "18kndvi6bl"
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/2b7666a0-52fc-46bc-88a2-600d26df8fdb.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-IW/L8MAbt0k9e4F9lhecuqR4TjaSgjxIuKlozJJAELE="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/2b7666a0-52fc-46bc-88a2-600d26df8fdb.png",
+      "AssetFile": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\images\\products\\2b7666a0-52fc-46bc-88a2-600d26df8fdb.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "129720"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IW/L8MAbt0k9e4F9lhecuqR4TjaSgjxIuKlozJJAELE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Nov 2025 03:10:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-IW/L8MAbt0k9e4F9lhecuqR4TjaSgjxIuKlozJJAELE="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/304b9c46-70fd-4e2b-ad87-c280e1b1587e.6yr8odipca.png",
+      "AssetFile": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\images\\products\\304b9c46-70fd-4e2b-ad87-c280e1b1587e.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "63446"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fgsvy4SBT2NfZ1eKJw5VMaCrzvOgV7oT5rhcjptGt3Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Nov 2025 03:24:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6yr8odipca"
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/304b9c46-70fd-4e2b-ad87-c280e1b1587e.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-fgsvy4SBT2NfZ1eKJw5VMaCrzvOgV7oT5rhcjptGt3Y="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/304b9c46-70fd-4e2b-ad87-c280e1b1587e.png",
+      "AssetFile": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\images\\products\\304b9c46-70fd-4e2b-ad87-c280e1b1587e.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "63446"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fgsvy4SBT2NfZ1eKJw5VMaCrzvOgV7oT5rhcjptGt3Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Nov 2025 03:24:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-fgsvy4SBT2NfZ1eKJw5VMaCrzvOgV7oT5rhcjptGt3Y="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/5e79e36d-1f36-41b2-b319-edd00cd2f2dd.be3gs8dmcp.png",
+      "AssetFile": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\images\\products\\5e79e36d-1f36-41b2-b319-edd00cd2f2dd.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "155097"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"M4H7SoXJ8jppdK74RE56nsWE5xO19xBRIdOL2s1xbM8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Nov 2025 02:29:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "be3gs8dmcp"
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/5e79e36d-1f36-41b2-b319-edd00cd2f2dd.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-M4H7SoXJ8jppdK74RE56nsWE5xO19xBRIdOL2s1xbM8="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/5e79e36d-1f36-41b2-b319-edd00cd2f2dd.png",
+      "AssetFile": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\images\\products\\5e79e36d-1f36-41b2-b319-edd00cd2f2dd.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "155097"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"M4H7SoXJ8jppdK74RE56nsWE5xO19xBRIdOL2s1xbM8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Nov 2025 02:29:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-M4H7SoXJ8jppdK74RE56nsWE5xO19xBRIdOL2s1xbM8="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/6d6a3fe7-48c6-4b03-bf4c-f221067b0b35.hqt7ztu40f.png",
+      "AssetFile": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\images\\products\\6d6a3fe7-48c6-4b03-bf4c-f221067b0b35.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "174180"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SQn0dN6aR7xrC14eZSXGOZpVoL4dXqPrDpRKFpmK5nw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Nov 2025 02:28:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hqt7ztu40f"
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/6d6a3fe7-48c6-4b03-bf4c-f221067b0b35.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SQn0dN6aR7xrC14eZSXGOZpVoL4dXqPrDpRKFpmK5nw="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/6d6a3fe7-48c6-4b03-bf4c-f221067b0b35.png",
+      "AssetFile": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\images\\products\\6d6a3fe7-48c6-4b03-bf4c-f221067b0b35.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "174180"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SQn0dN6aR7xrC14eZSXGOZpVoL4dXqPrDpRKFpmK5nw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Nov 2025 02:28:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SQn0dN6aR7xrC14eZSXGOZpVoL4dXqPrDpRKFpmK5nw="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/galaxya34.a4vom2e8bq.jpg",
+      "AssetFile": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\images\\products\\galaxya34.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5188"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dk7dNjbfypDE3/LYdXn/pF0n9wHjiop44jgZ3qY8FL0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 13 Nov 2025 06:08:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "a4vom2e8bq"
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/galaxya34.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-dk7dNjbfypDE3/LYdXn/pF0n9wHjiop44jgZ3qY8FL0="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/galaxya34.jpg",
+      "AssetFile": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\images\\products\\galaxya34.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5188"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dk7dNjbfypDE3/LYdXn/pF0n9wHjiop44jgZ3qY8FL0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 13 Nov 2025 06:08:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-dk7dNjbfypDE3/LYdXn/pF0n9wHjiop44jgZ3qY8FL0="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/galaxya54.jpg",
+      "AssetFile": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\images\\products\\galaxya54.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2106"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZiKHuwhoZQqgtYqIcY/XPTVypUQ6s9+N1ycFJXyKqYs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 13 Nov 2025 06:07:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZiKHuwhoZQqgtYqIcY/XPTVypUQ6s9+N1ycFJXyKqYs="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/galaxya54.ub7iwy47mi.jpg",
+      "AssetFile": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\images\\products\\galaxya54.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2106"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZiKHuwhoZQqgtYqIcY/XPTVypUQ6s9+N1ycFJXyKqYs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 13 Nov 2025 06:07:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ub7iwy47mi"
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/galaxya54.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZiKHuwhoZQqgtYqIcY/XPTVypUQ6s9+N1ycFJXyKqYs="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/galaxyflip5.04el5jmt5u.jpg",
+      "AssetFile": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\images\\products\\galaxyflip5.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3362"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UNSA+iRa6nfZsqHBrXZ+cwKrQlXHSi8qXvUTTiaRMzo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 13 Nov 2025 06:06:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "04el5jmt5u"
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/galaxyflip5.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-UNSA+iRa6nfZsqHBrXZ+cwKrQlXHSi8qXvUTTiaRMzo="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/galaxyflip5.jpg",
+      "AssetFile": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\images\\products\\galaxyflip5.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3362"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UNSA+iRa6nfZsqHBrXZ+cwKrQlXHSi8qXvUTTiaRMzo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 13 Nov 2025 06:06:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-UNSA+iRa6nfZsqHBrXZ+cwKrQlXHSi8qXvUTTiaRMzo="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/galaxyfold5.jpg",
+      "AssetFile": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\images\\products\\galaxyfold5.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2730"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+96FyKL9879wkfdOGeBkzrwoiNSZt3SFdib2pTa6F/k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 13 Nov 2025 06:06:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+96FyKL9879wkfdOGeBkzrwoiNSZt3SFdib2pTa6F/k="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/galaxyfold5.r8wviqrufr.jpg",
+      "AssetFile": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\images\\products\\galaxyfold5.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2730"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+96FyKL9879wkfdOGeBkzrwoiNSZt3SFdib2pTa6F/k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 13 Nov 2025 06:06:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "r8wviqrufr"
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/galaxyfold5.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+96FyKL9879wkfdOGeBkzrwoiNSZt3SFdib2pTa6F/k="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/galaxym34.jpg",
+      "AssetFile": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\images\\products\\galaxym34.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5920"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sn3nGmusebP6wHKCUKHszzMNpukGLsUO9kC2mWpRhaY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 13 Nov 2025 06:08:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-sn3nGmusebP6wHKCUKHszzMNpukGLsUO9kC2mWpRhaY="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/galaxym34.mqdf7iy615.jpg",
+      "AssetFile": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\images\\products\\galaxym34.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5920"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sn3nGmusebP6wHKCUKHszzMNpukGLsUO9kC2mWpRhaY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 13 Nov 2025 06:08:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mqdf7iy615"
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/galaxym34.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-sn3nGmusebP6wHKCUKHszzMNpukGLsUO9kC2mWpRhaY="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/galaxys24.jpg",
+      "AssetFile": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\images\\products\\galaxys24.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2716"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yjpgWuE8+YetFU8SaUFcT3g2/JBjAtBtoogIXLllJw8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 13 Nov 2025 06:05:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-yjpgWuE8+YetFU8SaUFcT3g2/JBjAtBtoogIXLllJw8="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/galaxys24.u6wtpxac1i.jpg",
+      "AssetFile": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\images\\products\\galaxys24.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2716"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yjpgWuE8+YetFU8SaUFcT3g2/JBjAtBtoogIXLllJw8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 13 Nov 2025 06:05:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "u6wtpxac1i"
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/galaxys24.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-yjpgWuE8+YetFU8SaUFcT3g2/JBjAtBtoogIXLllJw8="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/galaxys24plus.a0mbdvfhnl.jpg",
+      "AssetFile": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\images\\products\\galaxys24plus.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2666"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Kn1+94aqM2x+u9k9eywpxZqzEUfQIeuPGleyifklKQs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 13 Nov 2025 06:04:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "a0mbdvfhnl"
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/galaxys24plus.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Kn1+94aqM2x+u9k9eywpxZqzEUfQIeuPGleyifklKQs="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/galaxys24plus.jpg",
+      "AssetFile": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\images\\products\\galaxys24plus.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2666"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Kn1+94aqM2x+u9k9eywpxZqzEUfQIeuPGleyifklKQs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 13 Nov 2025 06:04:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Kn1+94aqM2x+u9k9eywpxZqzEUfQIeuPGleyifklKQs="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/galaxys24ultra.6zy3l01ouu.jpg",
+      "AssetFile": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\images\\products\\galaxys24ultra.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8522"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0hi4Saq8440loWSN3Fq3FKMasDPJgcA8+wfhkhplaNE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 13 Nov 2025 06:04:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6zy3l01ouu"
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/galaxys24ultra.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-0hi4Saq8440loWSN3Fq3FKMasDPJgcA8+wfhkhplaNE="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/galaxys24ultra.jpg",
+      "AssetFile": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\images\\products\\galaxys24ultra.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8522"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0hi4Saq8440loWSN3Fq3FKMasDPJgcA8+wfhkhplaNE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 13 Nov 2025 06:04:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-0hi4Saq8440loWSN3Fq3FKMasDPJgcA8+wfhkhplaNE="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/iphone13.6bs6y1rs6p.jpg",
+      "AssetFile": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\images\\products\\iphone13.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4164"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0opGeWcQF10kmRTOHFhJ61GSUeo2UmTvvx3QqlfC+YM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 13 Nov 2025 05:59:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6bs6y1rs6p"
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/iphone13.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-0opGeWcQF10kmRTOHFhJ61GSUeo2UmTvvx3QqlfC+YM="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/iphone13.jpg",
+      "AssetFile": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\images\\products\\iphone13.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4164"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0opGeWcQF10kmRTOHFhJ61GSUeo2UmTvvx3QqlfC+YM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 13 Nov 2025 05:59:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-0opGeWcQF10kmRTOHFhJ61GSUeo2UmTvvx3QqlfC+YM="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/iphone14.jpg.jpg",
+      "AssetFile": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\images\\products\\iphone14.jpg.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "28067"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"X9N+0aelr5lU053kaTtM1JrluGWp8BXyYzLwSrZRLkY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 13 Nov 2025 04:50:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-X9N+0aelr5lU053kaTtM1JrluGWp8BXyYzLwSrZRLkY="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/iphone14.jpg.zjp8cla8xn.jpg",
+      "AssetFile": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\images\\products\\iphone14.jpg.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "28067"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"X9N+0aelr5lU053kaTtM1JrluGWp8BXyYzLwSrZRLkY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 13 Nov 2025 04:50:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zjp8cla8xn"
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/iphone14.jpg.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-X9N+0aelr5lU053kaTtM1JrluGWp8BXyYzLwSrZRLkY="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/iphone14pro.icu6ym7y3i.jpg",
+      "AssetFile": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\images\\products\\iphone14pro.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "124418"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3rZwUjH/eOnksH7JzcbHYS+8yHxQ0rWqvl06K4EFfGQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 13 Nov 2025 04:51:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "icu6ym7y3i"
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/iphone14pro.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-3rZwUjH/eOnksH7JzcbHYS+8yHxQ0rWqvl06K4EFfGQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/iphone14pro.jpg",
+      "AssetFile": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\images\\products\\iphone14pro.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "124418"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3rZwUjH/eOnksH7JzcbHYS+8yHxQ0rWqvl06K4EFfGQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 13 Nov 2025 04:51:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-3rZwUjH/eOnksH7JzcbHYS+8yHxQ0rWqvl06K4EFfGQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/iphone14promax.b2ikubgv9o.jpg",
+      "AssetFile": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\images\\products\\iphone14promax.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "573701"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jb1XjAkw8d6GTZidARmJKqV3q3UIn3+dX/T0P84IWK8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 13 Nov 2025 04:52:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "b2ikubgv9o"
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/iphone14promax.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-jb1XjAkw8d6GTZidARmJKqV3q3UIn3+dX/T0P84IWK8="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/iphone14promax.jpg",
+      "AssetFile": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\images\\products\\iphone14promax.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "573701"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jb1XjAkw8d6GTZidARmJKqV3q3UIn3+dX/T0P84IWK8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 13 Nov 2025 04:52:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-jb1XjAkw8d6GTZidARmJKqV3q3UIn3+dX/T0P84IWK8="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/iphone15.e7o84wn66v.jpg",
+      "AssetFile": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\images\\products\\iphone15.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4000"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dt8MTJnSb/PLPP8O8z4riGJHmndHwTPlCBasuRvlA08=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 13 Nov 2025 06:01:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "e7o84wn66v"
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/iphone15.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-dt8MTJnSb/PLPP8O8z4riGJHmndHwTPlCBasuRvlA08="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/iphone15.jpg",
+      "AssetFile": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\images\\products\\iphone15.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4000"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dt8MTJnSb/PLPP8O8z4riGJHmndHwTPlCBasuRvlA08=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 13 Nov 2025 06:01:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-dt8MTJnSb/PLPP8O8z4riGJHmndHwTPlCBasuRvlA08="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/iphone15plus.jpg",
+      "AssetFile": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\images\\products\\iphone15plus.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "35112"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MZP9vr4yLrTx8Wa1+jqiJuwfl3I/eF4TfUx+sLyTQJA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 13 Nov 2025 04:50:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-MZP9vr4yLrTx8Wa1+jqiJuwfl3I/eF4TfUx+sLyTQJA="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/iphone15plus.ni7nrzooyq.jpg",
+      "AssetFile": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\images\\products\\iphone15plus.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "35112"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MZP9vr4yLrTx8Wa1+jqiJuwfl3I/eF4TfUx+sLyTQJA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 13 Nov 2025 04:50:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ni7nrzooyq"
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/iphone15plus.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-MZP9vr4yLrTx8Wa1+jqiJuwfl3I/eF4TfUx+sLyTQJA="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/iphone15pro.83wovttysd.jpg",
+      "AssetFile": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\images\\products\\iphone15pro.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "79952"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jOTFamhPbdrMkxUl0ibepF+M12xBX9VxX/zzG3QAYME=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 13 Nov 2025 04:51:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "83wovttysd"
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/iphone15pro.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-jOTFamhPbdrMkxUl0ibepF+M12xBX9VxX/zzG3QAYME="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/iphone15pro.jpg",
+      "AssetFile": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\images\\products\\iphone15pro.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "79952"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jOTFamhPbdrMkxUl0ibepF+M12xBX9VxX/zzG3QAYME=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 13 Nov 2025 04:51:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-jOTFamhPbdrMkxUl0ibepF+M12xBX9VxX/zzG3QAYME="
+        }
+      ]
+    },
+    {
+      "Route": "js/cart.js",
+      "AssetFile": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\js\\cart.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "17517"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1z5ddPOwt00VEtkGLb0iXCMrPs4GIrRAxnI82Xipp5o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Nov 2025 06:00:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1z5ddPOwt00VEtkGLb0iXCMrPs4GIrRAxnI82Xipp5o="
+        }
+      ]
+    },
+    {
+      "Route": "js/cart.v2f6hrjatv.js",
+      "AssetFile": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\js\\cart.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "17517"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1z5ddPOwt00VEtkGLb0iXCMrPs4GIrRAxnI82Xipp5o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Nov 2025 06:00:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "v2f6hrjatv"
+        },
+        {
+          "Name": "label",
+          "Value": "js/cart.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1z5ddPOwt00VEtkGLb0iXCMrPs4GIrRAxnI82Xipp5o="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.js",
+      "AssetFile": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\js\\site.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7000"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fviRMorsgTgNlSAu7ZkPZyqQc/WKyVSKyZkgTf68q3M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Nov 2025 01:41:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-fviRMorsgTgNlSAu7ZkPZyqQc/WKyVSKyZkgTf68q3M="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.yjb062rgwq.js",
+      "AssetFile": "C:\\Users\\maydi\\OneDrive\\Tài liệu\\FPTPolytechnic\\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\\Assignment-NET107-ShopMVC\\ShopMVC\\ShopMVC\\wwwroot\\js\\site.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7000"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fviRMorsgTgNlSAu7ZkPZyqQc/WKyVSKyZkgTf68q3M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Nov 2025 01:41:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "yjb062rgwq"
+        },
+        {
+          "Name": "label",
+          "Value": "js/site.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-fviRMorsgTgNlSAu7ZkPZyqQc/WKyVSKyZkgTf68q3M="
         }
       ]
     },
@@ -51583,7 +54055,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 05 Nov 2025 02:58:08 GMT"
+          "Value": "Thu, 13 Nov 2025 13:10:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -51620,7 +54092,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 05 Nov 2025 02:58:08 GMT"
+          "Value": "Thu, 13 Nov 2025 13:10:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -51665,7 +54137,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 05 Nov 2025 02:58:08 GMT"
+          "Value": "Thu, 13 Nov 2025 13:10:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -51710,7 +54182,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 05 Nov 2025 02:58:08 GMT"
+          "Value": "Thu, 13 Nov 2025 13:10:53 GMT"
         },
         {
           "Name": "Cache-Control",

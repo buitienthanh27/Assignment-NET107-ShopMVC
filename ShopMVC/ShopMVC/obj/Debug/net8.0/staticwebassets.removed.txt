@@ -1,2 +1,15 @@
-C:\Users\maydi\OneDrive\Tài liệu\FPTPolytechnic\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\Assignment-NET107-ShopMVC\ShopMVC\ShopMVC\wwwroot\css\site.css
-C:\Users\maydi\OneDrive\Tài liệu\FPTPolytechnic\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\Assignment-NET107-ShopMVC\ShopMVC\ShopMVC\wwwroot\js\site.js
+C:\Users\maydi\OneDrive\Tài liệu\FPTPolytechnic\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\Assignment-NET107-ShopMVC\ShopMVC\ShopMVC\wwwroot\images\products\galaxya34.jpg.webp
+C:\Users\maydi\OneDrive\Tài liệu\FPTPolytechnic\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\Assignment-NET107-ShopMVC\ShopMVC\ShopMVC\wwwroot\images\products\galaxya54.jpg.webp
+C:\Users\maydi\OneDrive\Tài liệu\FPTPolytechnic\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\Assignment-NET107-ShopMVC\ShopMVC\ShopMVC\wwwroot\images\products\galaxyflip5.jpg.webp
+C:\Users\maydi\OneDrive\Tài liệu\FPTPolytechnic\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\Assignment-NET107-ShopMVC\ShopMVC\ShopMVC\wwwroot\images\products\galaxyfold5.jpg.webp
+C:\Users\maydi\OneDrive\Tài liệu\FPTPolytechnic\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\Assignment-NET107-ShopMVC\ShopMVC\ShopMVC\wwwroot\images\products\galaxym34.jpg.webp
+C:\Users\maydi\OneDrive\Tài liệu\FPTPolytechnic\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\Assignment-NET107-ShopMVC\ShopMVC\ShopMVC\wwwroot\images\products\galaxys24.jpg.webp
+C:\Users\maydi\OneDrive\Tài liệu\FPTPolytechnic\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\Assignment-NET107-ShopMVC\ShopMVC\ShopMVC\wwwroot\images\products\galaxys24plus.jpg.webp
+C:\Users\maydi\OneDrive\Tài liệu\FPTPolytechnic\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\Assignment-NET107-ShopMVC\ShopMVC\ShopMVC\wwwroot\images\products\galaxys24ultra.jpg.webp
+C:\Users\maydi\OneDrive\Tài liệu\FPTPolytechnic\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\Assignment-NET107-ShopMVC\ShopMVC\ShopMVC\wwwroot\images\products\iphone13.jpg.webp
+C:\Users\maydi\OneDrive\Tài liệu\FPTPolytechnic\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\Assignment-NET107-ShopMVC\ShopMVC\ShopMVC\wwwroot\images\products\iphone14pro.jpg.jpg
+C:\Users\maydi\OneDrive\Tài liệu\FPTPolytechnic\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\Assignment-NET107-ShopMVC\ShopMVC\ShopMVC\wwwroot\images\products\iphone14promax.jpg.jpg
+C:\Users\maydi\OneDrive\Tài liệu\FPTPolytechnic\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\Assignment-NET107-ShopMVC\ShopMVC\ShopMVC\wwwroot\images\products\iphone15.jpg.webp
+C:\Users\maydi\OneDrive\Tài liệu\FPTPolytechnic\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\Assignment-NET107-ShopMVC\ShopMVC\ShopMVC\wwwroot\images\products\iphone15plus.jpg.jpg
+C:\Users\maydi\OneDrive\Tài liệu\FPTPolytechnic\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\Assignment-NET107-ShopMVC\ShopMVC\ShopMVC\wwwroot\images\products\iphone15pro.jpg.webp
+C:\Users\maydi\OneDrive\Tài liệu\FPTPolytechnic\NET107 - Lập trình web cơ bản (.NET)-20250920T041209Z-1-001\Assignment-NET107-ShopMVC\ShopMVC\ShopMVC\wwwroot\images\products\iphone15promax.jpg.jpg

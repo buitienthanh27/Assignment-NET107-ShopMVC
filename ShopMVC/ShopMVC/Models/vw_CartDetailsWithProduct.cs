@@ -44,4 +44,5 @@ public partial class vw_CartDetailsWithProduct
     public decimal? LineTotal { get; set; }
 
     public int AvailableStock { get; set; }
+    public decimal Price { get; internal set; }
 }

@@ -1,0 +1,31 @@
+@model int
+
+@{
+    ViewData["Title"] = "Đặt hàng thành công - PhoneShop";
+}
+
+<section class="order-success-area pt-100 pb-100">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-lg-6 text-center">
+                <div class="success-icon mb-4">
+                    <i class="fa fa-check-circle fa-5x text-success"></i>
+                </div>
+                <h2 class="mb-3">Đặt hàng thành công!</h2>
+                <p class="lead mb-4">Cảm ơn bạn đã đặt hàng tại PhoneShop</p>
+                <div class="alert alert-success">
+                    Mã đơn hàng của bạn: <strong>#@Model</strong>
+                </div>
+                <p class="mb-4">Chúng tôi đã nhận được đơn hàng và sẽ liên hệ với bạn sớm nhất.</p>
+                <div class="mt-4">
+                    <a asp-controller="Order" asp-action="Detail" asp-route-id="@Model" class="btn btn-primary me-2">
+                        <i class="fa fa-eye"></i> Xem chi tiết đơn hàng
+                    </a>
+                    <a asp-controller="Product" asp-action="Index" class="btn btn-outline-secondary">
+                        <i class="fa fa-shopping-cart"></i> Tiếp tục mua sắm
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
